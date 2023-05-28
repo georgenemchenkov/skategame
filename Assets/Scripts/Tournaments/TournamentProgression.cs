@@ -24,7 +24,7 @@ public class TournamentProgression : MonoBehaviour
     [SerializeField] private int _pointsToComplete;
     [SerializeField] private int _pointsToCompleteMax;
     [SerializeField] private float _pointsToCompleteMaxMultipier = 1.2f;
-    [SerializeField] private int _timeToComplete = 600;
+    [SerializeField] private int _timeToComplete = 1;
     [SerializeField] private float _timerCurrent;
     [SerializeField] private int _timerCurrentInt;
     private bool _completed;
