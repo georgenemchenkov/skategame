@@ -53,6 +53,6 @@ MonoBehaviour:
   _pointsToComplete: 8
   _pointsToCompleteMax: 0
   _pointsToCompleteMaxMultipier: 1.2
-  _timeToComplete: 600
+  _timeToComplete: 120
   _timerCurrent: 0
   _timerCurrentInt: 0
