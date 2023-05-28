@@ -33,11 +33,17 @@ public class TournamentUIInventoryItemSlot : MonoBehaviour
     {
         if (!PlayerStats.instance.GetInventory().CanUseItem(_item))
         {
-            _button.interactable = false;
+            if (_button != null)
+            { 
+                _button.interactable = false; 
+            }
             return;
         }
-        
-        _button.interactable = true;
+
+        if (_button != null)
+        {
+            _button.interactable = true;
+        }
     }
 
     public void Use()
@@ -46,8 +52,11 @@ public class TournamentUIInventoryItemSlot : MonoBehaviour
         {
             return;
         }
-        
-        _button.interactable = false;
+
+        if (_button != null)
+        {
+            _button.interactable = false;
+        }
         LeanTween.scale(gameObject, Vector3.zero,_item.useTime).setEase(LeanTweenType.easeInOutSine);
         PlayerStats.instance.GetInventory().UseItem(_slotId);
     }

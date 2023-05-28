@@ -21,7 +21,7 @@ public class TrickButton : MonoBehaviour
         _playerTricks = playerTricks;
         _nameText.text = trick.trickName;
         _descriptionText.text = $"Сила: {trick.abilitiesRequired.Strength.baseValue} Ловкость: {trick.abilitiesRequired.Agility.baseValue}";
-        _chanceText.text = $"Шанс выполнения: {playerTricks.GetChance(trick)*100}%";
+        _chanceText.text = $"Шанс: {Mathf.Round(playerTricks.GetChance(trick)*100)}%";
         if (!playerTricks.CanPerform(trick))
         {
             _button.interactable = false;

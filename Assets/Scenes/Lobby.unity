@@ -4515,6 +4515,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 308816663033519021, guid: 0d65a8f0df88df94e8d6911df05df139, type: 3}
+      propertyPath: _name
+      value: "\u041B\u0430\u0440\u0451\u043A"
+      objectReference: {fileID: 0}
     - target: {fileID: 472225195042906935, guid: 0d65a8f0df88df94e8d6911df05df139, type: 3}
       propertyPath: m_CastShadows
       value: 0
@@ -4678,18 +4682,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 862678064, guid: 6148ff6032fa8994e96714d7dde92ac4, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1189512689, guid: 6148ff6032fa8994e96714d7dde92ac4, type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1189512689, guid: 6148ff6032fa8994e96714d7dde92ac4, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1189512689, guid: 6148ff6032fa8994e96714d7dde92ac4, type: 3}
-      propertyPath: m_SizeDelta.x
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6222139899690262142, guid: 6148ff6032fa8994e96714d7dde92ac4, type: 3}

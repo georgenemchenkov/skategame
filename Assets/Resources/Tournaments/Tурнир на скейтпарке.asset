@@ -14,14 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   tournamentName: "T\u0443\u0440\u043D\u0438\u0440 \u043D\u0430 \u0441\u043A\u0435\u0439\u0442\u043F\u0430\u0440\u043A\u0435"
   levels:
-  - pointsToComplete: 40
-    reputationRewarded: 20
+  - pointsToComplete: 120
+    reputationRewarded: 25
     moneyRewarded: 220
-  - pointsToComplete: 50
-    reputationRewarded: 20
+  - pointsToComplete: 150
+    reputationRewarded: 50
     moneyRewarded: 330
-  - pointsToComplete: 70
-    reputationRewarded: 20
+  - pointsToComplete: 200
+    reputationRewarded: 100
     moneyRewarded: 440
   abilitiesRequired:
     Strength:

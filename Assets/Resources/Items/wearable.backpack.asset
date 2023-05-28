@@ -10,19 +10,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 401dbe4ba49a310439b38a2126f38094, type: 3}
-  m_Name: DevGreenHat
+  m_Name: wearable.backpack
   m_EditorClassIdentifier: 
-  displayName: Green Developer Hat
-  icon: {fileID: 21300000, guid: ee811c2aa5b1849409ed74da21802387, type: 3}
+  displayName: "\u0420\u044E\u043A\u0437\u0430\u043A"
+  icon: {fileID: 21300000, guid: dfba5dd4ffb855b4c98f92520154ed05, type: 3}
   abilityModifiers:
     Strength:
       baseValue: 3
     Agility:
-      baseValue: 3
+      baseValue: 5
     Reputation:
-      baseValue: 6
-  price: 1000
-  wearableType: 0
+      baseValue: 50
+  price: 3500
+  wearableType: 1
   ItemAttachPrefabs:
   - attachBone: Head
-    prefab: {fileID: 1320343279598995425, guid: 4c20061740712a24ea7ef1bd09349d79, type: 3}
+    prefab: {fileID: 9040108074962803459, guid: d5e9a293f2917cf4c9248a417b9f6401, type: 3}

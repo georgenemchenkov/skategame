@@ -10,19 +10,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 401dbe4ba49a310439b38a2126f38094, type: 3}
-  m_Name: DevHat
+  m_Name: wearable.glasses
   m_EditorClassIdentifier: 
-  displayName: Developer Hat
-  icon: {fileID: 21300000, guid: 40e1d9bd22b839a47a174891090f9d73, type: 3}
+  displayName: "\u041E\u0447\u043A\u0438"
+  icon: {fileID: 21300000, guid: 3cdbc3265ff6b1f40822684bdec357a2, type: 3}
   abilityModifiers:
     Strength:
-      baseValue: 3
+      baseValue: 1
     Agility:
-      baseValue: 4
+      baseValue: 1
     Reputation:
-      baseValue: 5
-  price: 600
+      baseValue: 30
+  price: 1000
   wearableType: 0
   ItemAttachPrefabs:
   - attachBone: Head
-    prefab: {fileID: 9040108074962803459, guid: d5e9a293f2917cf4c9248a417b9f6401, type: 3}
+    prefab: {fileID: 1320343279598995425, guid: 4c20061740712a24ea7ef1bd09349d79, type: 3}

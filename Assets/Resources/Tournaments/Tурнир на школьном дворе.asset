@@ -16,15 +16,15 @@ MonoBehaviour:
   tournamentName: "T\u0443\u0440\u043D\u0438\u0440 \u043D\u0430 \u0448\u043A\u043E\u043B\u044C\u043D\u043E\u043C
     \u0434\u0432\u043E\u0440\u0435"
   levels:
-  - pointsToComplete: 20
+  - pointsToComplete: 50
     reputationRewarded: 10
-    moneyRewarded: 200
-  - pointsToComplete: 40
+    moneyRewarded: 150
+  - pointsToComplete: 80
     reputationRewarded: 15
+    moneyRewarded: 200
+  - pointsToComplete: 120
+    reputationRewarded: 30
     moneyRewarded: 300
-  - pointsToComplete: 60
-    reputationRewarded: 20
-    moneyRewarded: 400
   abilitiesRequired:
     Strength:
       baseValue: 0
