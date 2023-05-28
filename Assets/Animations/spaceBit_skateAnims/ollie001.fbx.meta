@@ -1,0 +1,1973 @@
+fileFormatVersion: 2
+guid: 7d55ec33838fa874a9cb8e7ebc591944
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: prannoy_01
+  - first:
+      1: 100004
+    second: prannoy_01:ARIEL
+  - first:
+      1: 100006
+    second: prannoy_01:C7
+  - first:
+      1: 100008
+    second: prannoy_01:CLAV
+  - first:
+      1: 100010
+    second: prannoy_01:LANK
+  - first:
+      1: 100012
+    second: prannoy_01:LBHD
+  - first:
+      1: 100014
+    second: prannoy_01:LBSH
+  - first:
+      1: 100016
+    second: prannoy_01:LBWT
+  - first:
+      1: 100018
+    second: prannoy_01:LELB
+  - first:
+      1: 100020
+    second: prannoy_01:LFHD
+  - first:
+      1: 100022
+    second: prannoy_01:LFSH
+  - first:
+      1: 100024
+    second: prannoy_01:LFWT
+  - first:
+      1: 100026
+    second: prannoy_01:LHEL
+  - first:
+      1: 100028
+    second: prannoy_01:LHIP
+  - first:
+      1: 100030
+    second: prannoy_01:LIEL
+  - first:
+      1: 100032
+    second: prannoy_01:LIHAND
+  - first:
+      1: 100034
+    second: prannoy_01:LIWR
+  - first:
+      1: 100036
+    second: prannoy_01:LKNE
+  - first:
+      1: 100038
+    second: prannoy_01:LKNI
+  - first:
+      1: 100040
+    second: prannoy_01:LMT1
+  - first:
+      1: 100042
+    second: prannoy_01:LMT5
+  - first:
+      1: 100044
+    second: prannoy_01:LMWT
+  - first:
+      1: 100046
+    second: prannoy_01:LOHAND
+  - first:
+      1: 100048
+    second: prannoy_01:LOWR
+  - first:
+      1: 100050
+    second: prannoy_01:LSHN
+  - first:
+      1: 100052
+    second: prannoy_01:LTOE
+  - first:
+      1: 100054
+    second: prannoy_01:LUPA
+  - first:
+      1: 100056
+    second: prannoy_01:LWRE
+  - first:
+      1: 100058
+    second: prannoy_01:RANK
+  - first:
+      1: 100060
+    second: prannoy_01:RBHD
+  - first:
+      1: 100062
+    second: prannoy_01:RBSH
+  - first:
+      1: 100064
+    second: prannoy_01:RBWT
+  - first:
+      1: 100066
+    second: prannoy_01:RELB
+  - first:
+      1: 100068
+    second: prannoy_01:RFHD
+  - first:
+      1: 100070
+    second: prannoy_01:RFSH
+  - first:
+      1: 100072
+    second: prannoy_01:RFWT
+  - first:
+      1: 100074
+    second: prannoy_01:RHEL
+  - first:
+      1: 100076
+    second: prannoy_01:RHIP
+  - first:
+      1: 100078
+    second: prannoy_01:RIEL
+  - first:
+      1: 100080
+    second: prannoy_01:RIHAND
+  - first:
+      1: 100082
+    second: prannoy_01:RIWR
+  - first:
+      1: 100084
+    second: prannoy_01:RKNE
+  - first:
+      1: 100086
+    second: prannoy_01:RKNI
+  - first:
+      1: 100088
+    second: prannoy_01:RMT1
+  - first:
+      1: 100090
+    second: prannoy_01:RMT5
+  - first:
+      1: 100092
+    second: prannoy_01:RMWT
+  - first:
+      1: 100094
+    second: prannoy_01:ROHAND
+  - first:
+      1: 100096
+    second: prannoy_01:ROWR
+  - first:
+      1: 100098
+    second: prannoy_01:RSHN
+  - first:
+      1: 100100
+    second: prannoy_01:RTOE
+  - first:
+      1: 100102
+    second: prannoy_01:RUPA
+  - first:
+      1: 100104
+    second: prannoy_01:RWRE
+  - first:
+      1: 100106
+    second: prannoy_01:Solving
+  - first:
+      1: 100108
+    second: prannoy_01:Solving:Head
+  - first:
+      1: 100110
+    second: prannoy_01:Solving:HeadEnd
+  - first:
+      1: 100112
+    second: prannoy_01:Solving:Hips
+  - first:
+      1: 100114
+    second: prannoy_01:Solving:L_FingersEnd
+  - first:
+      1: 100116
+    second: prannoy_01:Solving:L_Thumb1
+  - first:
+      1: 100118
+    second: prannoy_01:Solving:L_Thumb2
+  - first:
+      1: 100120
+    second: prannoy_01:Solving:LeftArm
+  - first:
+      1: 100122
+    second: prannoy_01:Solving:LeftFoot
+  - first:
+      1: 100124
+    second: prannoy_01:Solving:LeftForeArm
+  - first:
+      1: 100126
+    second: prannoy_01:Solving:LeftHand
+  - first:
+      1: 100128
+    second: prannoy_01:Solving:LeftHandEnd
+  - first:
+      1: 100130
+    second: prannoy_01:Solving:LeftLeg
+  - first:
+      1: 100132
+    second: prannoy_01:Solving:LeftShoulder
+  - first:
+      1: 100134
+    second: prannoy_01:Solving:LeftToeBase
+  - first:
+      1: 100136
+    second: prannoy_01:Solving:LeftToeBaseEnd
+  - first:
+      1: 100138
+    second: prannoy_01:Solving:LeftUpLeg
+  - first:
+      1: 100140
+    second: prannoy_01:Solving:Neck
+  - first:
+      1: 100142
+    second: prannoy_01:Solving:R_FingersEnd
+  - first:
+      1: 100144
+    second: prannoy_01:Solving:R_Thumb1
+  - first:
+      1: 100146
+    second: prannoy_01:Solving:R_Thumb2
+  - first:
+      1: 100148
+    second: prannoy_01:Solving:RightArm
+  - first:
+      1: 100150
+    second: prannoy_01:Solving:RightFoot
+  - first:
+      1: 100152
+    second: prannoy_01:Solving:RightForeArm
+  - first:
+      1: 100154
+    second: prannoy_01:Solving:RightHand
+  - first:
+      1: 100156
+    second: prannoy_01:Solving:RightHandEnd
+  - first:
+      1: 100158
+    second: prannoy_01:Solving:RightLeg
+  - first:
+      1: 100160
+    second: prannoy_01:Solving:RightShoulder
+  - first:
+      1: 100162
+    second: prannoy_01:Solving:RightToeBase
+  - first:
+      1: 100164
+    second: prannoy_01:Solving:RightToeBaseEnd
+  - first:
+      1: 100166
+    second: prannoy_01:Solving:RightUpLeg
+  - first:
+      1: 100168
+    second: prannoy_01:Solving:Spine
+  - first:
+      1: 100170
+    second: prannoy_01:Solving:Spine1
+  - first:
+      1: 100172
+    second: prannoy_01:Solving:Spine2
+  - first:
+      1: 100174
+    second: prannoy_01:Solving:Spine3
+  - first:
+      1: 100176
+    second: prannoy_01:STRN
+  - first:
+      1: 100178
+    second: prannoy_01:T10
+  - first:
+      1: 100180
+    second: prannoyBoard_01
+  - first:
+      1: 100182
+    second: prannoyBoard_01:M_1
+  - first:
+      1: 100184
+    second: prannoyBoard_01:M_2
+  - first:
+      1: 100186
+    second: prannoyBoard_01:M_3
+  - first:
+      1: 100188
+    second: prannoyBoard_01:M_4
+  - first:
+      1: 100190
+    second: prannoyBoard_01:Solving
+  - first:
+      1: 100192
+    second: prannoyBoard_01:Solving:endBone
+  - first:
+      1: 100194
+    second: prannoyBoard_01:Solving:root
+  - first:
+      1: 100196
+    second: System
+  - first:
+      1: 100198
+    second: System:MX_3p_10179
+  - first:
+      1: 100200
+    second: System:MX_3p_10183
+  - first:
+      1: 100202
+    second: System:MX_3p_10184
+  - first:
+      1: 100204
+    second: System:MX_3p_10493
+  - first:
+      1: 100206
+    second: System:MX_3p_10494
+  - first:
+      1: 100208
+    second: System:MX_3p_10495
+  - first:
+      1: 100210
+    second: System:MX_3p_10496
+  - first:
+      1: 100212
+    second: System:MX_3p_10497
+  - first:
+      1: 100214
+    second: System:MX_3p_10498
+  - first:
+      1: 100216
+    second: System:MX_3p_10499
+  - first:
+      1: 100218
+    second: System:MX_3p_10502
+  - first:
+      1: 100220
+    second: System:MX_3p_10503
+  - first:
+      1: 100222
+    second: System:MX_3p_12301
+  - first:
+      1: 100224
+    second: System:MX_3p_12309
+  - first:
+      1: 100226
+    second: System:T20_15966
+  - first:
+      1: 100228
+    second: System:T20_15998
+  - first:
+      1: 100230
+    second: Unlabeled_Markers
+  - first:
+      1: 100232
+    second: Unlabeled_Markers:_100
+  - first:
+      1: 100234
+    second: Unlabeled_Markers:_104
+  - first:
+      1: 100236
+    second: Unlabeled_Markers:_110
+  - first:
+      1: 100238
+    second: Unlabeled_Markers:_112
+  - first:
+      1: 100240
+    second: Unlabeled_Markers:_115
+  - first:
+      1: 100242
+    second: Unlabeled_Markers:_118
+  - first:
+      1: 100244
+    second: Unlabeled_Markers:_120
+  - first:
+      1: 100246
+    second: Unlabeled_Markers:_130
+  - first:
+      1: 100248
+    second: Unlabeled_Markers:_133
+  - first:
+      1: 100250
+    second: Unlabeled_Markers:_134
+  - first:
+      1: 100252
+    second: Unlabeled_Markers:_136
+  - first:
+      1: 100254
+    second: Unlabeled_Markers:_137
+  - first:
+      1: 100256
+    second: Unlabeled_Markers:_138
+  - first:
+      1: 100258
+    second: Unlabeled_Markers:_139
+  - first:
+      1: 100260
+    second: Unlabeled_Markers:_27
+  - first:
+      1: 100262
+    second: Unlabeled_Markers:_28
+  - first:
+      1: 100264
+    second: Unlabeled_Markers:_50
+  - first:
+      1: 100266
+    second: Unlabeled_Markers:_58
+  - first:
+      1: 100268
+    second: Unlabeled_Markers:_60
+  - first:
+      1: 100270
+    second: Unlabeled_Markers:_62
+  - first:
+      1: 100272
+    second: Unlabeled_Markers:_63
+  - first:
+      1: 100274
+    second: Unlabeled_Markers:_64
+  - first:
+      1: 100276
+    second: Unlabeled_Markers:_65
+  - first:
+      1: 100278
+    second: Unlabeled_Markers:_66
+  - first:
+      1: 100280
+    second: Unlabeled_Markers:_67
+  - first:
+      1: 100282
+    second: Unlabeled_Markers:_77
+  - first:
+      1: 100284
+    second: Unlabeled_Markers:_81
+  - first:
+      1: 100286
+    second: Unlabeled_Markers:_82
+  - first:
+      1: 100288
+    second: Unlabeled_Markers:_84
+  - first:
+      1: 100290
+    second: Unlabeled_Markers:_87
+  - first:
+      1: 100292
+    second: Unlabeled_Markers:_90
+  - first:
+      1: 100294
+    second: Unlabeled_Markers:_96
+  - first:
+      1: 100296
+    second: Unlabeled_Markers:_97
+  - first:
+      1: 100298
+    second: Unlabeled_Markers:_98
+  - first:
+      1: 100300
+    second: Unlabeled_Markers:_99
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: prannoy_01
+  - first:
+      4: 400004
+    second: prannoy_01:ARIEL
+  - first:
+      4: 400006
+    second: prannoy_01:C7
+  - first:
+      4: 400008
+    second: prannoy_01:CLAV
+  - first:
+      4: 400010
+    second: prannoy_01:LANK
+  - first:
+      4: 400012
+    second: prannoy_01:LBHD
+  - first:
+      4: 400014
+    second: prannoy_01:LBSH
+  - first:
+      4: 400016
+    second: prannoy_01:LBWT
+  - first:
+      4: 400018
+    second: prannoy_01:LELB
+  - first:
+      4: 400020
+    second: prannoy_01:LFHD
+  - first:
+      4: 400022
+    second: prannoy_01:LFSH
+  - first:
+      4: 400024
+    second: prannoy_01:LFWT
+  - first:
+      4: 400026
+    second: prannoy_01:LHEL
+  - first:
+      4: 400028
+    second: prannoy_01:LHIP
+  - first:
+      4: 400030
+    second: prannoy_01:LIEL
+  - first:
+      4: 400032
+    second: prannoy_01:LIHAND
+  - first:
+      4: 400034
+    second: prannoy_01:LIWR
+  - first:
+      4: 400036
+    second: prannoy_01:LKNE
+  - first:
+      4: 400038
+    second: prannoy_01:LKNI
+  - first:
+      4: 400040
+    second: prannoy_01:LMT1
+  - first:
+      4: 400042
+    second: prannoy_01:LMT5
+  - first:
+      4: 400044
+    second: prannoy_01:LMWT
+  - first:
+      4: 400046
+    second: prannoy_01:LOHAND
+  - first:
+      4: 400048
+    second: prannoy_01:LOWR
+  - first:
+      4: 400050
+    second: prannoy_01:LSHN
+  - first:
+      4: 400052
+    second: prannoy_01:LTOE
+  - first:
+      4: 400054
+    second: prannoy_01:LUPA
+  - first:
+      4: 400056
+    second: prannoy_01:LWRE
+  - first:
+      4: 400058
+    second: prannoy_01:RANK
+  - first:
+      4: 400060
+    second: prannoy_01:RBHD
+  - first:
+      4: 400062
+    second: prannoy_01:RBSH
+  - first:
+      4: 400064
+    second: prannoy_01:RBWT
+  - first:
+      4: 400066
+    second: prannoy_01:RELB
+  - first:
+      4: 400068
+    second: prannoy_01:RFHD
+  - first:
+      4: 400070
+    second: prannoy_01:RFSH
+  - first:
+      4: 400072
+    second: prannoy_01:RFWT
+  - first:
+      4: 400074
+    second: prannoy_01:RHEL
+  - first:
+      4: 400076
+    second: prannoy_01:RHIP
+  - first:
+      4: 400078
+    second: prannoy_01:RIEL
+  - first:
+      4: 400080
+    second: prannoy_01:RIHAND
+  - first:
+      4: 400082
+    second: prannoy_01:RIWR
+  - first:
+      4: 400084
+    second: prannoy_01:RKNE
+  - first:
+      4: 400086
+    second: prannoy_01:RKNI
+  - first:
+      4: 400088
+    second: prannoy_01:RMT1
+  - first:
+      4: 400090
+    second: prannoy_01:RMT5
+  - first:
+      4: 400092
+    second: prannoy_01:RMWT
+  - first:
+      4: 400094
+    second: prannoy_01:ROHAND
+  - first:
+      4: 400096
+    second: prannoy_01:ROWR
+  - first:
+      4: 400098
+    second: prannoy_01:RSHN
+  - first:
+      4: 400100
+    second: prannoy_01:RTOE
+  - first:
+      4: 400102
+    second: prannoy_01:RUPA
+  - first:
+      4: 400104
+    second: prannoy_01:RWRE
+  - first:
+      4: 400106
+    second: prannoy_01:Solving
+  - first:
+      4: 400108
+    second: prannoy_01:Solving:Head
+  - first:
+      4: 400110
+    second: prannoy_01:Solving:HeadEnd
+  - first:
+      4: 400112
+    second: prannoy_01:Solving:Hips
+  - first:
+      4: 400114
+    second: prannoy_01:Solving:L_FingersEnd
+  - first:
+      4: 400116
+    second: prannoy_01:Solving:L_Thumb1
+  - first:
+      4: 400118
+    second: prannoy_01:Solving:L_Thumb2
+  - first:
+      4: 400120
+    second: prannoy_01:Solving:LeftArm
+  - first:
+      4: 400122
+    second: prannoy_01:Solving:LeftFoot
+  - first:
+      4: 400124
+    second: prannoy_01:Solving:LeftForeArm
+  - first:
+      4: 400126
+    second: prannoy_01:Solving:LeftHand
+  - first:
+      4: 400128
+    second: prannoy_01:Solving:LeftHandEnd
+  - first:
+      4: 400130
+    second: prannoy_01:Solving:LeftLeg
+  - first:
+      4: 400132
+    second: prannoy_01:Solving:LeftShoulder
+  - first:
+      4: 400134
+    second: prannoy_01:Solving:LeftToeBase
+  - first:
+      4: 400136
+    second: prannoy_01:Solving:LeftToeBaseEnd
+  - first:
+      4: 400138
+    second: prannoy_01:Solving:LeftUpLeg
+  - first:
+      4: 400140
+    second: prannoy_01:Solving:Neck
+  - first:
+      4: 400142
+    second: prannoy_01:Solving:R_FingersEnd
+  - first:
+      4: 400144
+    second: prannoy_01:Solving:R_Thumb1
+  - first:
+      4: 400146
+    second: prannoy_01:Solving:R_Thumb2
+  - first:
+      4: 400148
+    second: prannoy_01:Solving:RightArm
+  - first:
+      4: 400150
+    second: prannoy_01:Solving:RightFoot
+  - first:
+      4: 400152
+    second: prannoy_01:Solving:RightForeArm
+  - first:
+      4: 400154
+    second: prannoy_01:Solving:RightHand
+  - first:
+      4: 400156
+    second: prannoy_01:Solving:RightHandEnd
+  - first:
+      4: 400158
+    second: prannoy_01:Solving:RightLeg
+  - first:
+      4: 400160
+    second: prannoy_01:Solving:RightShoulder
+  - first:
+      4: 400162
+    second: prannoy_01:Solving:RightToeBase
+  - first:
+      4: 400164
+    second: prannoy_01:Solving:RightToeBaseEnd
+  - first:
+      4: 400166
+    second: prannoy_01:Solving:RightUpLeg
+  - first:
+      4: 400168
+    second: prannoy_01:Solving:Spine
+  - first:
+      4: 400170
+    second: prannoy_01:Solving:Spine1
+  - first:
+      4: 400172
+    second: prannoy_01:Solving:Spine2
+  - first:
+      4: 400174
+    second: prannoy_01:Solving:Spine3
+  - first:
+      4: 400176
+    second: prannoy_01:STRN
+  - first:
+      4: 400178
+    second: prannoy_01:T10
+  - first:
+      4: 400180
+    second: prannoyBoard_01
+  - first:
+      4: 400182
+    second: prannoyBoard_01:M_1
+  - first:
+      4: 400184
+    second: prannoyBoard_01:M_2
+  - first:
+      4: 400186
+    second: prannoyBoard_01:M_3
+  - first:
+      4: 400188
+    second: prannoyBoard_01:M_4
+  - first:
+      4: 400190
+    second: prannoyBoard_01:Solving
+  - first:
+      4: 400192
+    second: prannoyBoard_01:Solving:endBone
+  - first:
+      4: 400194
+    second: prannoyBoard_01:Solving:root
+  - first:
+      4: 400196
+    second: System
+  - first:
+      4: 400198
+    second: System:MX_3p_10179
+  - first:
+      4: 400200
+    second: System:MX_3p_10183
+  - first:
+      4: 400202
+    second: System:MX_3p_10184
+  - first:
+      4: 400204
+    second: System:MX_3p_10493
+  - first:
+      4: 400206
+    second: System:MX_3p_10494
+  - first:
+      4: 400208
+    second: System:MX_3p_10495
+  - first:
+      4: 400210
+    second: System:MX_3p_10496
+  - first:
+      4: 400212
+    second: System:MX_3p_10497
+  - first:
+      4: 400214
+    second: System:MX_3p_10498
+  - first:
+      4: 400216
+    second: System:MX_3p_10499
+  - first:
+      4: 400218
+    second: System:MX_3p_10502
+  - first:
+      4: 400220
+    second: System:MX_3p_10503
+  - first:
+      4: 400222
+    second: System:MX_3p_12301
+  - first:
+      4: 400224
+    second: System:MX_3p_12309
+  - first:
+      4: 400226
+    second: System:T20_15966
+  - first:
+      4: 400228
+    second: System:T20_15998
+  - first:
+      4: 400230
+    second: Unlabeled_Markers
+  - first:
+      4: 400232
+    second: Unlabeled_Markers:_100
+  - first:
+      4: 400234
+    second: Unlabeled_Markers:_104
+  - first:
+      4: 400236
+    second: Unlabeled_Markers:_110
+  - first:
+      4: 400238
+    second: Unlabeled_Markers:_112
+  - first:
+      4: 400240
+    second: Unlabeled_Markers:_115
+  - first:
+      4: 400242
+    second: Unlabeled_Markers:_118
+  - first:
+      4: 400244
+    second: Unlabeled_Markers:_120
+  - first:
+      4: 400246
+    second: Unlabeled_Markers:_130
+  - first:
+      4: 400248
+    second: Unlabeled_Markers:_133
+  - first:
+      4: 400250
+    second: Unlabeled_Markers:_134
+  - first:
+      4: 400252
+    second: Unlabeled_Markers:_136
+  - first:
+      4: 400254
+    second: Unlabeled_Markers:_137
+  - first:
+      4: 400256
+    second: Unlabeled_Markers:_138
+  - first:
+      4: 400258
+    second: Unlabeled_Markers:_139
+  - first:
+      4: 400260
+    second: Unlabeled_Markers:_27
+  - first:
+      4: 400262
+    second: Unlabeled_Markers:_28
+  - first:
+      4: 400264
+    second: Unlabeled_Markers:_50
+  - first:
+      4: 400266
+    second: Unlabeled_Markers:_58
+  - first:
+      4: 400268
+    second: Unlabeled_Markers:_60
+  - first:
+      4: 400270
+    second: Unlabeled_Markers:_62
+  - first:
+      4: 400272
+    second: Unlabeled_Markers:_63
+  - first:
+      4: 400274
+    second: Unlabeled_Markers:_64
+  - first:
+      4: 400276
+    second: Unlabeled_Markers:_65
+  - first:
+      4: 400278
+    second: Unlabeled_Markers:_66
+  - first:
+      4: 400280
+    second: Unlabeled_Markers:_67
+  - first:
+      4: 400282
+    second: Unlabeled_Markers:_77
+  - first:
+      4: 400284
+    second: Unlabeled_Markers:_81
+  - first:
+      4: 400286
+    second: Unlabeled_Markers:_82
+  - first:
+      4: 400288
+    second: Unlabeled_Markers:_84
+  - first:
+      4: 400290
+    second: Unlabeled_Markers:_87
+  - first:
+      4: 400292
+    second: Unlabeled_Markers:_90
+  - first:
+      4: 400294
+    second: Unlabeled_Markers:_96
+  - first:
+      4: 400296
+    second: Unlabeled_Markers:_97
+  - first:
+      4: 400298
+    second: Unlabeled_Markers:_98
+  - first:
+      4: 400300
+    second: Unlabeled_Markers:_99
+  - first:
+      74: 7400000
+    second: ollie001
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'prannoy_ollie002_x2d' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'prannoy_01:Solving:Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'prannoy_01:Solving:Spine3'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ollie001
+      takeName: prannoy_ollie002_x2d
+      internalID: 0
+      firstFrame: 190
+      lastFrame: 230
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.9
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: prannoy_01:Solving:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: prannoy_01:Solving:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: prannoy_01:Solving:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: prannoy_01:Solving:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: prannoy_01:Solving:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: prannoy_01:Solving:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: prannoy_01:Solving:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: prannoy_01:Solving:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: prannoy_01:Solving:Spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: prannoy_01:Solving:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: prannoy_01:Solving:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: prannoy_01:Solving:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: prannoy_01:Solving:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: prannoy_01:Solving:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: prannoy_01:Solving:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: prannoy_01:Solving:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: prannoy_01:Solving:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: prannoy_01:Solving:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: prannoy_01:Solving:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: prannoy_01:Solving:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: prannoy_01:Solving:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: ollie001(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:ARIEL
+      parentName: 
+      position: {x: 0.11754525, y: 1.6522005, z: -0.6032692}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:C7
+      parentName: 
+      position: {x: 0.12698023, y: 1.3722585, z: -0.7324762}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:CLAV
+      parentName: 
+      position: {x: 0.13543464, y: 1.2851788, z: -0.5469105}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:LANK
+      parentName: 
+      position: {x: -0.124999866, y: 0.11437471, z: -0.70179886}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:LBHD
+      parentName: 
+      position: {x: 0.049925044, y: 1.5419639, z: -0.6696509}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:LBSH
+      parentName: 
+      position: {x: 0.027212344, y: 1.3459784, z: -0.7454402}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:LBWT
+      parentName: 
+      position: {x: -0.016888727, y: 0.8721497, z: -0.73289514}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:LELB
+      parentName: 
+      position: {x: -0.29386193, y: 1.2988238, z: -0.6919667}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:LFHD
+      parentName: 
+      position: {x: 0.05460728, y: 1.5741067, z: -0.54208654}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:LFSH
+      parentName: 
+      position: {x: 0.024188437, y: 1.3284928, z: -0.58026284}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:LFWT
+      parentName: 
+      position: {x: 0.013939159, y: 0.885705, z: -0.54532766}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:LHEL
+      parentName: 
+      position: {x: -0.071508534, y: 0.070890136, z: -0.7725504}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:LHIP
+      parentName: 
+      position: {x: -0.036652062, y: 0.7199121, z: -0.55730766}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:LIEL
+      parentName: 
+      position: {x: -0.3028095, y: 1.2309242, z: -0.69433236}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:LIHAND
+      parentName: 
+      position: {x: -0.59379345, y: 1.2362461, z: -0.572264}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:LIWR
+      parentName: 
+      position: {x: -0.5207613, y: 1.2613163, z: -0.57806945}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:LKNE
+      parentName: 
+      position: {x: -0.046309307, y: 0.4736883, z: -0.60168916}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:LKNI
+      parentName: 
+      position: {x: 0.009596311, y: 0.46317664, z: -0.59376144}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:LMT1
+      parentName: 
+      position: {x: -0.037981864, y: 0.029932883, z: -0.5641802}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:LMT5
+      parentName: 
+      position: {x: -0.12698758, y: 0.040774465, z: -0.5487901}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:LMWT
+      parentName: 
+      position: {x: -0.047452535, y: 0.88291454, z: -0.6429694}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:LOHAND
+      parentName: 
+      position: {x: -0.6062803, y: 1.2383856, z: -0.6321944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:LOWR
+      parentName: 
+      position: {x: -0.53728426, y: 1.2722315, z: -0.6276009}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:LSHN
+      parentName: 
+      position: {x: -0.062049568, y: 0.37464905, z: -0.6431447}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:LTOE
+      parentName: 
+      position: {x: -0.08082762, y: 0.04855941, z: -0.5242779}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:LUPA
+      parentName: 
+      position: {x: -0.21357767, y: 1.3290857, z: -0.6596015}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:LWRE
+      parentName: 
+      position: {x: -0.44250464, y: 1.2893134, z: -0.6270309}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:RANK
+      parentName: 
+      position: {x: 0.34272188, y: 0.114599586, z: -0.7530809}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:RBHD
+      parentName: 
+      position: {x: 0.21098928, y: 1.553005, z: -0.66719025}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:RBSH
+      parentName: 
+      position: {x: 0.22762237, y: 1.3424816, z: -0.76042706}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:RBWT
+      parentName: 
+      position: {x: 0.23521554, y: 0.9000974, z: -0.76359206}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:RELB
+      parentName: 
+      position: {x: 0.54228985, y: 1.2675519, z: -0.7715973}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:RFHD
+      parentName: 
+      position: {x: 0.20327656, y: 1.5849179, z: -0.55175877}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:RFSH
+      parentName: 
+      position: {x: 0.23822792, y: 1.3266479, z: -0.59680796}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:RFWT
+      parentName: 
+      position: {x: 0.24771218, y: 0.8814231, z: -0.55193895}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:RHEL
+      parentName: 
+      position: {x: 0.2832275, y: 0.09813671, z: -0.7960577}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:RHIP
+      parentName: 
+      position: {x: 0.28090006, y: 0.574905, z: -0.6029232}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:RIEL
+      parentName: 
+      position: {x: 0.5473132, y: 1.2013355, z: -0.75632447}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:RIHAND
+      parentName: 
+      position: {x: 0.8621157, y: 1.2094083, z: -0.6763319}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:RIWR
+      parentName: 
+      position: {x: 0.78336316, y: 1.2444767, z: -0.6792434}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:RKNE
+      parentName: 
+      position: {x: 0.27486315, y: 0.4617341, z: -0.6379717}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:RKNI
+      parentName: 
+      position: {x: 0.21867853, y: 0.45983294, z: -0.63278633}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:RMT1
+      parentName: 
+      position: {x: 0.2824322, y: 0.014903958, z: -0.5913394}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:RMT5
+      parentName: 
+      position: {x: 0.38043922, y: 0.04116679, z: -0.59497976}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:RMWT
+      parentName: 
+      position: {x: 0.30583286, y: 0.8936048, z: -0.6618926}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:ROHAND
+      parentName: 
+      position: {x: 0.8633338, y: 1.2090664, z: -0.71157926}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:ROWR
+      parentName: 
+      position: {x: 0.7981829, y: 1.2516946, z: -0.74579835}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:RSHN
+      parentName: 
+      position: {x: 0.28370154, y: 0.29939777, z: -0.6840761}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:RTOE
+      parentName: 
+      position: {x: 0.31883892, y: 0.034744263, z: -0.56292063}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:RUPA
+      parentName: 
+      position: {x: 0.39174494, y: 1.3325578, z: -0.7374986}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:RWRE
+      parentName: 
+      position: {x: 0.6545525, y: 1.2780747, z: -0.70639837}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:Hips
+      parentName: 
+      position: {x: -0.0023712069, y: 0.8866767, z: -0.0022127628}
+      rotation: {x: -0.7372217, y: -0.040292487, z: 0.028754769, w: 0.67383516}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:LeftUpLeg
+      parentName: 
+      position: {x: -0.083939664, y: 0, z: -0.024521701}
+      rotation: {x: 0.050678495, y: -0.58536434, z: -0.12522991, w: 0.799436}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:LeftLeg
+      parentName: 
+      position: {x: -0.38100383, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.042034935, w: 0.9991162}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:LeftFoot
+      parentName: 
+      position: {x: -0.39838564, y: 0, z: 0}
+      rotation: {x: 0.054519974, y: -0.12888315, z: 0.5960523, w: 0.790657}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:LeftToeBase
+      parentName: 
+      position: {x: -0.17383918, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.33366594, w: 0.9426914}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:LeftToeBaseEnd
+      parentName: 
+      position: {x: -0.06790625, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:RightUpLeg
+      parentName: 
+      position: {x: 0.083939664, y: 0, z: -0.024521701}
+      rotation: {x: 0.15507089, y: -0.6997946, z: -0.079785526, w: 0.69273}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:RightLeg
+      parentName: 
+      position: {x: -0.3816258, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.14586706, w: 0.98930424}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:RightFoot
+      parentName: 
+      position: {x: -0.39838564, y: 0, z: 0}
+      rotation: {x: 0.016176205, y: 0.007023273, z: 0.4625918, w: 0.88639593}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:RightToeBase
+      parentName: 
+      position: {x: -0.17207476, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.31148958, w: 0.9502496}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:RightToeBaseEnd
+      parentName: 
+      position: {x: -0.06790625, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:Spine
+      parentName: 
+      position: {x: -0, y: 0.05449422, z: 0.05449422}
+      rotation: {x: 0.045969807, y: 0.062629886, z: 0.025036093, w: 0.99666315}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:Spine1
+      parentName: 
+      position: {x: -0, y: 0, z: 0.07265896}
+      rotation: {x: 0.00558703, y: -0.003473323, z: 0.0004735937, w: 0.99997824}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:Spine2
+      parentName: 
+      position: {x: -0, y: 0, z: 0.07265896}
+      rotation: {x: 0.000018808007, y: 0.00043252957, z: 0.010389796, w: 0.99994594}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:Spine3
+      parentName: 
+      position: {x: -0, y: 0, z: 0.07265896}
+      rotation: {x: 0.00054274884, y: -0.0016823852, z: 0.0029300805, w: 0.99999416}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:LeftShoulder
+      parentName: 
+      position: {x: -0.028294269, y: -0.018862847, z: 0.15278906}
+      rotation: {x: 0.0036679981, y: 0.0442814, z: -0.008997868, w: 0.9989718}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:LeftArm
+      parentName: 
+      position: {x: -0.1405282, y: 0, z: 0}
+      rotation: {x: 0.19237912, y: -0.05138471, z: -0.033888336, w: 0.9793883}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:LeftForeArm
+      parentName: 
+      position: {x: -0.28032908, y: 0, z: 0}
+      rotation: {x: -0.0009631867, y: 0.003999587, z: 0.07285689, w: 0.997334}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:LeftHand
+      parentName: 
+      position: {x: -0.23800156, y: 0, z: 0}
+      rotation: {x: -0.054627057, y: -0.26757723, z: -0.099206895, w: 0.95685756}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:L_Thumb1
+      parentName: 
+      position: {x: -0.026848257, y: -0.044747096, z: -0.017898837}
+      rotation: {x: 0.9876721, y: 0.13002947, z: 0.011375968, w: 0.08641026}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:L_Thumb2
+      parentName: 
+      position: {x: -0.067120634, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:LeftHandEnd
+      parentName: 
+      position: {x: -0.067120634, y: 0, z: 0}
+      rotation: {x: 0.7071067, y: -0, z: -0, w: 0.7071069}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:L_FingersEnd
+      parentName: 
+      position: {x: -0.067120634, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:Neck
+      parentName: 
+      position: {x: -0, y: -0.01816474, z: 0.1816474}
+      rotation: {x: 0.113734886, y: -0.018899467, z: -0.011995078, w: 0.99325895}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:Head
+      parentName: 
+      position: {x: -0, y: 0, z: 0.10374566}
+      rotation: {x: -0.08505941, y: 0.00002216725, z: -0.006333646, w: 0.9963558}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:HeadEnd
+      parentName: 
+      position: {x: -0, y: 0, z: 0.17448133}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:RightShoulder
+      parentName: 
+      position: {x: 0.028294269, y: -0.018862847, z: 0.15278906}
+      rotation: {x: -0.026348848, y: 0.9989354, z: -0.0056820563, w: 0.0374375}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:RightArm
+      parentName: 
+      position: {x: -0.1405282, y: 0, z: 0}
+      rotation: {x: -0.09936171, y: 0.030738149, z: 0.0071327756, w: 0.99455094}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:RightForeArm
+      parentName: 
+      position: {x: -0.26880577, y: 0, z: 0}
+      rotation: {x: 0.0021443667, y: -0.00874244, z: 0.0680657, w: 0.99764025}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:RightHand
+      parentName: 
+      position: {x: -0.23800156, y: 0, z: 0}
+      rotation: {x: 0.020425826, y: 0.25879198, z: 0.043124214, w: 0.9647538}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:R_Thumb1
+      parentName: 
+      position: {x: -0.026848257, y: -0.044747096, z: 0.017898837}
+      rotation: {x: 0.9876721, y: 0.13002947, z: 0.011375968, w: 0.08641026}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:R_Thumb2
+      parentName: 
+      position: {x: -0.067120634, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:RightHandEnd
+      parentName: 
+      position: {x: -0.067120634, y: 0, z: 0}
+      rotation: {x: -0.7071067, y: 0, z: -0, w: 0.7071069}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:Solving:R_FingersEnd
+      parentName: 
+      position: {x: -0.067120634, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:STRN
+      parentName: 
+      position: {x: 0.13529794, y: 1.1220934, z: -0.51490456}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoy_01:T10
+      parentName: 
+      position: {x: 0.11720014, y: 1.0542643, z: -0.76827025}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoyBoard_01
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoyBoard_01:M_1
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoyBoard_01:M_2
+      parentName: 
+      position: {x: -0.24984863, y: -5.3290706e-18, z: -8.881785e-19}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoyBoard_01:M_3
+      parentName: 
+      position: {x: -0.29793304, y: 0.19371422, z: -4.4408918e-17}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoyBoard_01:M_4
+      parentName: 
+      position: {x: 0.2693388, y: 0.20741451, z: 0.024720324}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoyBoard_01:Solving
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoyBoard_01:Solving:root
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: prannoyBoard_01:Solving:endBone
+      parentName: 
+      position: {x: -0.099999994, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:MX_3p_10179
+      parentName: 
+      position: {x: 5.1765842, y: 2.5669515, z: 2.3550045}
+      rotation: {x: 0.9567223, y: 0.25235966, z: 0.12971567, w: -0.06458218}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:MX_3p_10183
+      parentName: 
+      position: {x: -3.6406524, y: 3.105083, z: -5.0380597}
+      rotation: {x: -0.28320768, y: 0.37811866, z: 0.72216296, w: 0.5052725}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:MX_3p_10184
+      parentName: 
+      position: {x: 1.6424702, y: 3.143304, z: -5.4035583}
+      rotation: {x: 0.63875026, y: 0.6103498, z: -0.33497798, w: 0.32750756}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:MX_3p_10493
+      parentName: 
+      position: {x: -5.3865924, y: 2.5928137, z: 0.18580042}
+      rotation: {x: 0.27253264, y: 0.9620986, z: 0.0015063153, w: 0.009485044}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:MX_3p_10494
+      parentName: 
+      position: {x: -6.1957374, y: 2.640793, z: -4.998347}
+      rotation: {x: 0.19104409, y: 0.9083087, z: 0.03715459, w: 0.3702663}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:MX_3p_10495
+      parentName: 
+      position: {x: -5.8270855, y: 2.6171997, z: -2.8445125}
+      rotation: {x: 0.25338912, y: 0.9509506, z: -0.094703205, w: 0.15006043}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:MX_3p_10496
+      parentName: 
+      position: {x: 5.3669953, y: 2.6642432, z: 4.1868668}
+      rotation: {x: 0.93645483, y: 0.1592373, z: 0.3044968, w: 0.07055146}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:MX_3p_10497
+      parentName: 
+      position: {x: 2.5470922, y: 3.079018, z: 4.9754267}
+      rotation: {x: 0.64560485, y: 0.57032067, z: 0.24299227, w: -0.4459635}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:MX_3p_10498
+      parentName: 
+      position: {x: 4.2534175, y: 2.5943651, z: -0.45270097}
+      rotation: {x: 0.95503265, y: 0.29071134, z: -0.05743956, w: -0.010013586}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:MX_3p_10499
+      parentName: 
+      position: {x: -0.8472682, y: 3.074234, z: 5.3092356}
+      rotation: {x: 0.36968136, y: -0.3723042, z: 0.59671766, w: 0.60716826}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:MX_3p_10502
+      parentName: 
+      position: {x: 0.3326127, y: 3.165122, z: -5.38718}
+      rotation: {x: 0.59114563, y: 0.6266908, z: -0.35607895, w: 0.36195752}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:MX_3p_10503
+      parentName: 
+      position: {x: -4.9345145, y: 2.5592694, z: 3.1334271}
+      rotation: {x: 0.29796973, y: 0.9290005, z: 0.05693246, w: -0.21196887}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:MX_3p_12301
+      parentName: 
+      position: {x: -2.5534217, y: 2.9471407, z: 5.497517}
+      rotation: {x: 0.57679147, y: 0.23743989, z: 0.773251, w: 0.11409132}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:MX_3p_12309
+      parentName: 
+      position: {x: 3.7343068, y: 2.6117368, z: -3.4917412}
+      rotation: {x: 0.94761723, y: 0.23638643, z: -0.21459828, w: -0.009523281}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:T20_15966
+      parentName: 
+      position: {x: 1.1430284, y: 3.0887582, z: 5.155606}
+      rotation: {x: 0.3861557, y: -0.3221608, z: 0.57690185, w: 0.6436462}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:T20_15998
+      parentName: 
+      position: {x: -1.099329, y: 3.146567, z: -5.2692533}
+      rotation: {x: -0.25793996, y: 0.42152977, z: 0.64164656, w: 0.58657426}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_27
+      parentName: 
+      position: {x: 2.2816167, y: 0.07891385, z: 0.8633569}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_28
+      parentName: 
+      position: {x: -0.02279635, y: 0.005101584, z: -0.66223615}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_50
+      parentName: 
+      position: {x: 2.5421357, y: 0.07054264, z: 1.373661}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_58
+      parentName: 
+      position: {x: 1.2291135, y: 0.012248116, z: -0.1264782}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_60
+      parentName: 
+      position: {x: 1.9804198, y: 0.052108865, z: 0.4186568}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_62
+      parentName: 
+      position: {x: 2.4986742, y: 0.053325072, z: 0.7601502}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_63
+      parentName: 
+      position: {x: 2.4738567, y: 0.10779338, z: 0.55645853}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_64
+      parentName: 
+      position: {x: 2.528253, y: 0.007512349, z: 0.7729924}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_65
+      parentName: 
+      position: {x: 2.5682263, y: 0.019047128, z: 0.77552235}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_66
+      parentName: 
+      position: {x: 2.5402286, y: 0.044214133, z: 0.91974956}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_67
+      parentName: 
+      position: {x: 2.7062201, y: 0.03659708, z: 0.86138886}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_77
+      parentName: 
+      position: {x: 2.9337738, y: 0.036325507, z: 1.2796718}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_81
+      parentName: 
+      position: {x: 2.9171588, y: 0.07245006, z: 1.1878318}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_82
+      parentName: 
+      position: {x: 2.9176552, y: 0.0697408, z: 1.1866761}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_84
+      parentName: 
+      position: {x: 2.943632, y: 0.015264897, z: 1.3222061}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_87
+      parentName: 
+      position: {x: 2.723086, y: 0.21362536, z: 1.431027}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_90
+      parentName: 
+      position: {x: 2.5275955, y: 0.63572073, z: 1.0618376}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_96
+      parentName: 
+      position: {x: 3.0250332, y: 0.16068937, z: 1.2541789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_97
+      parentName: 
+      position: {x: 2.9653995, y: 0.039011482, z: 1.3245796}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_98
+      parentName: 
+      position: {x: 3.0403082, y: 0.15055981, z: 1.3627084}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_99
+      parentName: 
+      position: {x: 2.9005673, y: 0.22934975, z: 1.3212969}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_100
+      parentName: 
+      position: {x: 2.8868215, y: 0.046060275, z: 1.160612}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_104
+      parentName: 
+      position: {x: 0.705519, y: 0.12531556, z: -0.20017605}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_110
+      parentName: 
+      position: {x: 0.8086354, y: 0.151543, z: -0.098625705}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_112
+      parentName: 
+      position: {x: 0.34427363, y: 0.05020391, z: -0.28064078}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_115
+      parentName: 
+      position: {x: -0.21022479, y: 1.0444556, z: -0.60269666}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_118
+      parentName: 
+      position: {x: -0.49021783, y: 1.1707067, z: -0.8527464}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_120
+      parentName: 
+      position: {x: -0.37460074, y: 0.034933224, z: -0.9790403}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_130
+      parentName: 
+      position: {x: -2.9245305, y: 0.7759944, z: -0.013694248}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_133
+      parentName: 
+      position: {x: -2.638195, y: 0.032878652, z: 0.21096897}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_134
+      parentName: 
+      position: {x: -1.649641, y: 0.04945645, z: -0.13821131}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_136
+      parentName: 
+      position: {x: -1.342001, y: 0.014828859, z: -0.26115614}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_137
+      parentName: 
+      position: {x: -0.4959814, y: 0.026256558, z: -0.5002245}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_138
+      parentName: 
+      position: {x: -0.23587829, y: 0.0073710713, z: -0.78131926}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_139
+      parentName: 
+      position: {x: -0.23791689, y: 0.00867034, z: -0.78124344}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

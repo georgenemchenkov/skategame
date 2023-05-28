@@ -1,0 +1,2946 @@
+fileFormatVersion: 2
+guid: 134e5aea3c34fbc45b601fab8d5a25fd
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: greg_01
+    100002: greg_01:ARIEL
+    100004: greg_01:C7
+    100006: greg_01:CLAV
+    100008: greg_01:LANK
+    100010: greg_01:LBHD
+    100012: greg_01:LBSH
+    100014: greg_01:LBWT
+    100016: greg_01:LELB
+    100018: greg_01:LFHD
+    100020: greg_01:LFSH
+    100022: greg_01:LFWT
+    100024: greg_01:LHEL
+    100026: greg_01:LHIP
+    100028: greg_01:LIEL
+    100030: greg_01:LIHAND
+    100032: greg_01:LIWR
+    100034: greg_01:LKNE
+    100036: greg_01:LKNI
+    100038: greg_01:LMT1
+    100040: greg_01:LMT5
+    100042: greg_01:LMWT
+    100044: greg_01:LOHAND
+    100046: greg_01:LOWR
+    100048: greg_01:LSHN
+    100050: greg_01:LTOE
+    100052: greg_01:LUPA
+    100054: greg_01:LWRE
+    100056: greg_01:RANK
+    100058: greg_01:RBHD
+    100060: greg_01:RBSH
+    100062: greg_01:RBWT
+    100064: greg_01:RELB
+    100066: greg_01:RFHD
+    100068: greg_01:RFSH
+    100070: greg_01:RFWT
+    100072: greg_01:RHEL
+    100074: greg_01:RHIP
+    100076: greg_01:RIEL
+    100078: greg_01:RIHAND
+    100080: greg_01:RIWR
+    100082: greg_01:RKNE
+    100084: greg_01:RKNI
+    100086: greg_01:RMT1
+    100088: greg_01:RMT5
+    100090: greg_01:RMWT
+    100092: greg_01:ROHAND
+    100094: greg_01:ROWR
+    100096: greg_01:RSHN
+    100098: greg_01:RTOE
+    100100: greg_01:RUPA
+    100102: greg_01:RWRE
+    100104: greg_01:Solving
+    100106: greg_01:Solving:Head
+    100108: greg_01:Solving:Head_End
+    100110: greg_01:Solving:Hips
+    100112: greg_01:Solving:LeftArm
+    100114: greg_01:Solving:LeftFoot
+    100116: greg_01:Solving:LeftForeArm
+    100118: greg_01:Solving:LeftHand
+    100120: greg_01:Solving:LeftHandEnd
+    100122: greg_01:Solving:LeftHandThumb
+    100124: greg_01:Solving:LeftHandThumbEnd
+    100126: greg_01:Solving:LeftLeg
+    100128: greg_01:Solving:LeftShoulder
+    100130: greg_01:Solving:LeftToeBase
+    100132: greg_01:Solving:LeftToeEnd
+    100134: greg_01:Solving:LeftUpLeg
+    100136: greg_01:Solving:RightArm
+    100138: greg_01:Solving:RightFoot
+    100140: greg_01:Solving:RightForeArm
+    100142: greg_01:Solving:RightHand
+    100144: greg_01:Solving:RightHandEnd
+    100146: greg_01:Solving:RightHandThumb
+    100148: greg_01:Solving:RightHandThumbEnd
+    100150: greg_01:Solving:RightLeg
+    100152: greg_01:Solving:RightShoulder
+    100154: greg_01:Solving:RightToeBase
+    100156: greg_01:Solving:RightToeEnd
+    100158: greg_01:Solving:RightUpLeg
+    100160: greg_01:Solving:Spine
+    100162: greg_01:STRN
+    100164: greg_01:T10
+    100166: //RootNode
+    100168: System
+    100170: System:MX_3p_10179
+    100172: System:MX_3p_10183
+    100174: System:MX_3p_10184
+    100176: System:MX_3p_10493
+    100178: System:MX_3p_10494
+    100180: System:MX_3p_10495
+    100182: System:MX_3p_10496
+    100184: System:MX_3p_10497
+    100186: System:MX_3p_10498
+    100188: System:MX_3p_10499
+    100190: System:MX_3p_10502
+    100192: System:MX_3p_10503
+    100194: System:MX_3p_12301
+    100196: System:MX_3p_12309
+    100198: System:T20_15966
+    100200: System:T20_15998
+    100202: Unlabeled_Markers
+    100204: Unlabeled_Markers:_1
+    100206: Unlabeled_Markers:_10
+    100208: Unlabeled_Markers:_100
+    100210: Unlabeled_Markers:_102
+    100212: Unlabeled_Markers:_103
+    100214: Unlabeled_Markers:_105
+    100216: Unlabeled_Markers:_11
+    100218: Unlabeled_Markers:_110
+    100220: Unlabeled_Markers:_111
+    100222: Unlabeled_Markers:_113
+    100224: Unlabeled_Markers:_114
+    100226: Unlabeled_Markers:_115
+    100228: Unlabeled_Markers:_116
+    100230: Unlabeled_Markers:_117
+    100232: Unlabeled_Markers:_12
+    100234: Unlabeled_Markers:_123
+    100236: Unlabeled_Markers:_124
+    100238: Unlabeled_Markers:_125
+    100240: Unlabeled_Markers:_126
+    100242: Unlabeled_Markers:_129
+    100244: Unlabeled_Markers:_13
+    100246: Unlabeled_Markers:_132
+    100248: Unlabeled_Markers:_133
+    100250: Unlabeled_Markers:_134
+    100252: Unlabeled_Markers:_138
+    100254: Unlabeled_Markers:_139
+    100256: Unlabeled_Markers:_14
+    100258: Unlabeled_Markers:_140
+    100260: Unlabeled_Markers:_144
+    100262: Unlabeled_Markers:_145
+    100264: Unlabeled_Markers:_147
+    100266: Unlabeled_Markers:_148
+    100268: Unlabeled_Markers:_149
+    100270: Unlabeled_Markers:_15
+    100272: Unlabeled_Markers:_151
+    100274: Unlabeled_Markers:_153
+    100276: Unlabeled_Markers:_155
+    100278: Unlabeled_Markers:_156
+    100280: Unlabeled_Markers:_157
+    100282: Unlabeled_Markers:_158
+    100284: Unlabeled_Markers:_159
+    100286: Unlabeled_Markers:_16
+    100288: Unlabeled_Markers:_160
+    100290: Unlabeled_Markers:_161
+    100292: Unlabeled_Markers:_162
+    100294: Unlabeled_Markers:_163
+    100296: Unlabeled_Markers:_166
+    100298: Unlabeled_Markers:_167
+    100300: Unlabeled_Markers:_169
+    100302: Unlabeled_Markers:_17
+    100304: Unlabeled_Markers:_170
+    100306: Unlabeled_Markers:_172
+    100308: Unlabeled_Markers:_174
+    100310: Unlabeled_Markers:_175
+    100312: Unlabeled_Markers:_177
+    100314: Unlabeled_Markers:_179
+    100316: Unlabeled_Markers:_18
+    100318: Unlabeled_Markers:_180
+    100320: Unlabeled_Markers:_181
+    100322: Unlabeled_Markers:_187
+    100324: Unlabeled_Markers:_19
+    100326: Unlabeled_Markers:_190
+    100328: Unlabeled_Markers:_193
+    100330: Unlabeled_Markers:_194
+    100332: Unlabeled_Markers:_195
+    100334: Unlabeled_Markers:_196
+    100336: Unlabeled_Markers:_197
+    100338: Unlabeled_Markers:_2
+    100340: Unlabeled_Markers:_20
+    100342: Unlabeled_Markers:_200
+    100344: Unlabeled_Markers:_201
+    100346: Unlabeled_Markers:_207
+    100348: Unlabeled_Markers:_21
+    100350: Unlabeled_Markers:_211
+    100352: Unlabeled_Markers:_213
+    100354: Unlabeled_Markers:_214
+    100356: Unlabeled_Markers:_216
+    100358: Unlabeled_Markers:_218
+    100360: Unlabeled_Markers:_22
+    100362: Unlabeled_Markers:_220
+    100364: Unlabeled_Markers:_221
+    100366: Unlabeled_Markers:_222
+    100368: Unlabeled_Markers:_224
+    100370: Unlabeled_Markers:_229
+    100372: Unlabeled_Markers:_23
+    100374: Unlabeled_Markers:_231
+    100376: Unlabeled_Markers:_233
+    100378: Unlabeled_Markers:_235
+    100380: Unlabeled_Markers:_237
+    100382: Unlabeled_Markers:_238
+    100384: Unlabeled_Markers:_239
+    100386: Unlabeled_Markers:_24
+    100388: Unlabeled_Markers:_240
+    100390: Unlabeled_Markers:_241
+    100392: Unlabeled_Markers:_244
+    100394: Unlabeled_Markers:_246
+    100396: Unlabeled_Markers:_247
+    100398: Unlabeled_Markers:_249
+    100400: Unlabeled_Markers:_25
+    100402: Unlabeled_Markers:_251
+    100404: Unlabeled_Markers:_254
+    100406: Unlabeled_Markers:_255
+    100408: Unlabeled_Markers:_256
+    100410: Unlabeled_Markers:_257
+    100412: Unlabeled_Markers:_258
+    100414: Unlabeled_Markers:_26
+    100416: Unlabeled_Markers:_261
+    100418: Unlabeled_Markers:_262
+    100420: Unlabeled_Markers:_265
+    100422: Unlabeled_Markers:_266
+    100424: Unlabeled_Markers:_267
+    100426: Unlabeled_Markers:_269
+    100428: Unlabeled_Markers:_27
+    100430: Unlabeled_Markers:_270
+    100432: Unlabeled_Markers:_271
+    100434: Unlabeled_Markers:_273
+    100436: Unlabeled_Markers:_275
+    100438: Unlabeled_Markers:_277
+    100440: Unlabeled_Markers:_28
+    100442: Unlabeled_Markers:_280
+    100444: Unlabeled_Markers:_282
+    100446: Unlabeled_Markers:_283
+    100448: Unlabeled_Markers:_284
+    100450: Unlabeled_Markers:_285
+    100452: Unlabeled_Markers:_287
+    100454: Unlabeled_Markers:_288
+    100456: Unlabeled_Markers:_289
+    100458: Unlabeled_Markers:_29
+    100460: Unlabeled_Markers:_290
+    100462: Unlabeled_Markers:_291
+    100464: Unlabeled_Markers:_292
+    100466: Unlabeled_Markers:_293
+    100468: Unlabeled_Markers:_294
+    100470: Unlabeled_Markers:_295
+    100472: Unlabeled_Markers:_296
+    100474: Unlabeled_Markers:_298
+    100476: Unlabeled_Markers:_299
+    100478: Unlabeled_Markers:_3
+    100480: Unlabeled_Markers:_30
+    100482: Unlabeled_Markers:_300
+    100484: Unlabeled_Markers:_301
+    100486: Unlabeled_Markers:_302
+    100488: Unlabeled_Markers:_305
+    100490: Unlabeled_Markers:_306
+    100492: Unlabeled_Markers:_309
+    100494: Unlabeled_Markers:_31
+    100496: Unlabeled_Markers:_311
+    100498: Unlabeled_Markers:_315
+    100500: Unlabeled_Markers:_318
+    100502: Unlabeled_Markers:_319
+    100504: Unlabeled_Markers:_32
+    100506: Unlabeled_Markers:_320
+    100508: Unlabeled_Markers:_321
+    100510: Unlabeled_Markers:_323
+    100512: Unlabeled_Markers:_324
+    100514: Unlabeled_Markers:_328
+    100516: Unlabeled_Markers:_33
+    100518: Unlabeled_Markers:_330
+    100520: Unlabeled_Markers:_331
+    100522: Unlabeled_Markers:_332
+    100524: Unlabeled_Markers:_333
+    100526: Unlabeled_Markers:_336
+    100528: Unlabeled_Markers:_337
+    100530: Unlabeled_Markers:_339
+    100532: Unlabeled_Markers:_34
+    100534: Unlabeled_Markers:_340
+    100536: Unlabeled_Markers:_341
+    100538: Unlabeled_Markers:_342
+    100540: Unlabeled_Markers:_344
+    100542: Unlabeled_Markers:_346
+    100544: Unlabeled_Markers:_347
+    100546: Unlabeled_Markers:_348
+    100548: Unlabeled_Markers:_349
+    100550: Unlabeled_Markers:_35
+    100552: Unlabeled_Markers:_350
+    100554: Unlabeled_Markers:_352
+    100556: Unlabeled_Markers:_353
+    100558: Unlabeled_Markers:_354
+    100560: Unlabeled_Markers:_356
+    100562: Unlabeled_Markers:_357
+    100564: Unlabeled_Markers:_358
+    100566: Unlabeled_Markers:_359
+    100568: Unlabeled_Markers:_36
+    100570: Unlabeled_Markers:_360
+    100572: Unlabeled_Markers:_361
+    100574: Unlabeled_Markers:_363
+    100576: Unlabeled_Markers:_364
+    100578: Unlabeled_Markers:_367
+    100580: Unlabeled_Markers:_368
+    100582: Unlabeled_Markers:_37
+    100584: Unlabeled_Markers:_373
+    100586: Unlabeled_Markers:_374
+    100588: Unlabeled_Markers:_375
+    100590: Unlabeled_Markers:_376
+    100592: Unlabeled_Markers:_379
+    100594: Unlabeled_Markers:_38
+    100596: Unlabeled_Markers:_380
+    100598: Unlabeled_Markers:_382
+    100600: Unlabeled_Markers:_383
+    100602: Unlabeled_Markers:_386
+    100604: Unlabeled_Markers:_388
+    100606: Unlabeled_Markers:_39
+    100608: Unlabeled_Markers:_390
+    100610: Unlabeled_Markers:_392
+    100612: Unlabeled_Markers:_393
+    100614: Unlabeled_Markers:_396
+    100616: Unlabeled_Markers:_397
+    100618: Unlabeled_Markers:_398
+    100620: Unlabeled_Markers:_399
+    100622: Unlabeled_Markers:_4
+    100624: Unlabeled_Markers:_40
+    100626: Unlabeled_Markers:_401
+    100628: Unlabeled_Markers:_402
+    100630: Unlabeled_Markers:_405
+    100632: Unlabeled_Markers:_406
+    100634: Unlabeled_Markers:_41
+    100636: Unlabeled_Markers:_411
+    100638: Unlabeled_Markers:_413
+    100640: Unlabeled_Markers:_414
+    100642: Unlabeled_Markers:_415
+    100644: Unlabeled_Markers:_416
+    100646: Unlabeled_Markers:_42
+    100648: Unlabeled_Markers:_420
+    100650: Unlabeled_Markers:_422
+    100652: Unlabeled_Markers:_423
+    100654: Unlabeled_Markers:_425
+    100656: Unlabeled_Markers:_426
+    100658: Unlabeled_Markers:_428
+    100660: Unlabeled_Markers:_429
+    100662: Unlabeled_Markers:_43
+    100664: Unlabeled_Markers:_432
+    100666: Unlabeled_Markers:_433
+    100668: Unlabeled_Markers:_434
+    100670: Unlabeled_Markers:_436
+    100672: Unlabeled_Markers:_438
+    100674: Unlabeled_Markers:_439
+    100676: Unlabeled_Markers:_44
+    100678: Unlabeled_Markers:_440
+    100680: Unlabeled_Markers:_442
+    100682: Unlabeled_Markers:_444
+    100684: Unlabeled_Markers:_445
+    100686: Unlabeled_Markers:_446
+    100688: Unlabeled_Markers:_448
+    100690: Unlabeled_Markers:_449
+    100692: Unlabeled_Markers:_45
+    100694: Unlabeled_Markers:_450
+    100696: Unlabeled_Markers:_451
+    100698: Unlabeled_Markers:_46
+    100700: Unlabeled_Markers:_47
+    100702: Unlabeled_Markers:_48
+    100704: Unlabeled_Markers:_49
+    100706: Unlabeled_Markers:_5
+    100708: Unlabeled_Markers:_50
+    100710: Unlabeled_Markers:_51
+    100712: Unlabeled_Markers:_52
+    100714: Unlabeled_Markers:_53
+    100716: Unlabeled_Markers:_57
+    100718: Unlabeled_Markers:_58
+    100720: Unlabeled_Markers:_59
+    100722: Unlabeled_Markers:_6
+    100724: Unlabeled_Markers:_60
+    100726: Unlabeled_Markers:_61
+    100728: Unlabeled_Markers:_63
+    100730: Unlabeled_Markers:_65
+    100732: Unlabeled_Markers:_66
+    100734: Unlabeled_Markers:_68
+    100736: Unlabeled_Markers:_7
+    100738: Unlabeled_Markers:_71
+    100740: Unlabeled_Markers:_75
+    100742: Unlabeled_Markers:_77
+    100744: Unlabeled_Markers:_78
+    100746: Unlabeled_Markers:_8
+    100748: Unlabeled_Markers:_80
+    100750: Unlabeled_Markers:_82
+    100752: Unlabeled_Markers:_84
+    100754: Unlabeled_Markers:_86
+    100756: Unlabeled_Markers:_87
+    100758: Unlabeled_Markers:_9
+    100760: Unlabeled_Markers:_90
+    100762: Unlabeled_Markers:_93
+    100764: Unlabeled_Markers:_94
+    100766: Unlabeled_Markers:_96
+    100768: Unlabeled_Markers:_98
+    100770: Unlabeled_Markers:_99
+    400000: greg_01
+    400002: greg_01:ARIEL
+    400004: greg_01:C7
+    400006: greg_01:CLAV
+    400008: greg_01:LANK
+    400010: greg_01:LBHD
+    400012: greg_01:LBSH
+    400014: greg_01:LBWT
+    400016: greg_01:LELB
+    400018: greg_01:LFHD
+    400020: greg_01:LFSH
+    400022: greg_01:LFWT
+    400024: greg_01:LHEL
+    400026: greg_01:LHIP
+    400028: greg_01:LIEL
+    400030: greg_01:LIHAND
+    400032: greg_01:LIWR
+    400034: greg_01:LKNE
+    400036: greg_01:LKNI
+    400038: greg_01:LMT1
+    400040: greg_01:LMT5
+    400042: greg_01:LMWT
+    400044: greg_01:LOHAND
+    400046: greg_01:LOWR
+    400048: greg_01:LSHN
+    400050: greg_01:LTOE
+    400052: greg_01:LUPA
+    400054: greg_01:LWRE
+    400056: greg_01:RANK
+    400058: greg_01:RBHD
+    400060: greg_01:RBSH
+    400062: greg_01:RBWT
+    400064: greg_01:RELB
+    400066: greg_01:RFHD
+    400068: greg_01:RFSH
+    400070: greg_01:RFWT
+    400072: greg_01:RHEL
+    400074: greg_01:RHIP
+    400076: greg_01:RIEL
+    400078: greg_01:RIHAND
+    400080: greg_01:RIWR
+    400082: greg_01:RKNE
+    400084: greg_01:RKNI
+    400086: greg_01:RMT1
+    400088: greg_01:RMT5
+    400090: greg_01:RMWT
+    400092: greg_01:ROHAND
+    400094: greg_01:ROWR
+    400096: greg_01:RSHN
+    400098: greg_01:RTOE
+    400100: greg_01:RUPA
+    400102: greg_01:RWRE
+    400104: greg_01:Solving
+    400106: greg_01:Solving:Head
+    400108: greg_01:Solving:Head_End
+    400110: greg_01:Solving:Hips
+    400112: greg_01:Solving:LeftArm
+    400114: greg_01:Solving:LeftFoot
+    400116: greg_01:Solving:LeftForeArm
+    400118: greg_01:Solving:LeftHand
+    400120: greg_01:Solving:LeftHandEnd
+    400122: greg_01:Solving:LeftHandThumb
+    400124: greg_01:Solving:LeftHandThumbEnd
+    400126: greg_01:Solving:LeftLeg
+    400128: greg_01:Solving:LeftShoulder
+    400130: greg_01:Solving:LeftToeBase
+    400132: greg_01:Solving:LeftToeEnd
+    400134: greg_01:Solving:LeftUpLeg
+    400136: greg_01:Solving:RightArm
+    400138: greg_01:Solving:RightFoot
+    400140: greg_01:Solving:RightForeArm
+    400142: greg_01:Solving:RightHand
+    400144: greg_01:Solving:RightHandEnd
+    400146: greg_01:Solving:RightHandThumb
+    400148: greg_01:Solving:RightHandThumbEnd
+    400150: greg_01:Solving:RightLeg
+    400152: greg_01:Solving:RightShoulder
+    400154: greg_01:Solving:RightToeBase
+    400156: greg_01:Solving:RightToeEnd
+    400158: greg_01:Solving:RightUpLeg
+    400160: greg_01:Solving:Spine
+    400162: greg_01:STRN
+    400164: greg_01:T10
+    400166: //RootNode
+    400168: System
+    400170: System:MX_3p_10179
+    400172: System:MX_3p_10183
+    400174: System:MX_3p_10184
+    400176: System:MX_3p_10493
+    400178: System:MX_3p_10494
+    400180: System:MX_3p_10495
+    400182: System:MX_3p_10496
+    400184: System:MX_3p_10497
+    400186: System:MX_3p_10498
+    400188: System:MX_3p_10499
+    400190: System:MX_3p_10502
+    400192: System:MX_3p_10503
+    400194: System:MX_3p_12301
+    400196: System:MX_3p_12309
+    400198: System:T20_15966
+    400200: System:T20_15998
+    400202: Unlabeled_Markers
+    400204: Unlabeled_Markers:_1
+    400206: Unlabeled_Markers:_10
+    400208: Unlabeled_Markers:_100
+    400210: Unlabeled_Markers:_102
+    400212: Unlabeled_Markers:_103
+    400214: Unlabeled_Markers:_105
+    400216: Unlabeled_Markers:_11
+    400218: Unlabeled_Markers:_110
+    400220: Unlabeled_Markers:_111
+    400222: Unlabeled_Markers:_113
+    400224: Unlabeled_Markers:_114
+    400226: Unlabeled_Markers:_115
+    400228: Unlabeled_Markers:_116
+    400230: Unlabeled_Markers:_117
+    400232: Unlabeled_Markers:_12
+    400234: Unlabeled_Markers:_123
+    400236: Unlabeled_Markers:_124
+    400238: Unlabeled_Markers:_125
+    400240: Unlabeled_Markers:_126
+    400242: Unlabeled_Markers:_129
+    400244: Unlabeled_Markers:_13
+    400246: Unlabeled_Markers:_132
+    400248: Unlabeled_Markers:_133
+    400250: Unlabeled_Markers:_134
+    400252: Unlabeled_Markers:_138
+    400254: Unlabeled_Markers:_139
+    400256: Unlabeled_Markers:_14
+    400258: Unlabeled_Markers:_140
+    400260: Unlabeled_Markers:_144
+    400262: Unlabeled_Markers:_145
+    400264: Unlabeled_Markers:_147
+    400266: Unlabeled_Markers:_148
+    400268: Unlabeled_Markers:_149
+    400270: Unlabeled_Markers:_15
+    400272: Unlabeled_Markers:_151
+    400274: Unlabeled_Markers:_153
+    400276: Unlabeled_Markers:_155
+    400278: Unlabeled_Markers:_156
+    400280: Unlabeled_Markers:_157
+    400282: Unlabeled_Markers:_158
+    400284: Unlabeled_Markers:_159
+    400286: Unlabeled_Markers:_16
+    400288: Unlabeled_Markers:_160
+    400290: Unlabeled_Markers:_161
+    400292: Unlabeled_Markers:_162
+    400294: Unlabeled_Markers:_163
+    400296: Unlabeled_Markers:_166
+    400298: Unlabeled_Markers:_167
+    400300: Unlabeled_Markers:_169
+    400302: Unlabeled_Markers:_17
+    400304: Unlabeled_Markers:_170
+    400306: Unlabeled_Markers:_172
+    400308: Unlabeled_Markers:_174
+    400310: Unlabeled_Markers:_175
+    400312: Unlabeled_Markers:_177
+    400314: Unlabeled_Markers:_179
+    400316: Unlabeled_Markers:_18
+    400318: Unlabeled_Markers:_180
+    400320: Unlabeled_Markers:_181
+    400322: Unlabeled_Markers:_187
+    400324: Unlabeled_Markers:_19
+    400326: Unlabeled_Markers:_190
+    400328: Unlabeled_Markers:_193
+    400330: Unlabeled_Markers:_194
+    400332: Unlabeled_Markers:_195
+    400334: Unlabeled_Markers:_196
+    400336: Unlabeled_Markers:_197
+    400338: Unlabeled_Markers:_2
+    400340: Unlabeled_Markers:_20
+    400342: Unlabeled_Markers:_200
+    400344: Unlabeled_Markers:_201
+    400346: Unlabeled_Markers:_207
+    400348: Unlabeled_Markers:_21
+    400350: Unlabeled_Markers:_211
+    400352: Unlabeled_Markers:_213
+    400354: Unlabeled_Markers:_214
+    400356: Unlabeled_Markers:_216
+    400358: Unlabeled_Markers:_218
+    400360: Unlabeled_Markers:_22
+    400362: Unlabeled_Markers:_220
+    400364: Unlabeled_Markers:_221
+    400366: Unlabeled_Markers:_222
+    400368: Unlabeled_Markers:_224
+    400370: Unlabeled_Markers:_229
+    400372: Unlabeled_Markers:_23
+    400374: Unlabeled_Markers:_231
+    400376: Unlabeled_Markers:_233
+    400378: Unlabeled_Markers:_235
+    400380: Unlabeled_Markers:_237
+    400382: Unlabeled_Markers:_238
+    400384: Unlabeled_Markers:_239
+    400386: Unlabeled_Markers:_24
+    400388: Unlabeled_Markers:_240
+    400390: Unlabeled_Markers:_241
+    400392: Unlabeled_Markers:_244
+    400394: Unlabeled_Markers:_246
+    400396: Unlabeled_Markers:_247
+    400398: Unlabeled_Markers:_249
+    400400: Unlabeled_Markers:_25
+    400402: Unlabeled_Markers:_251
+    400404: Unlabeled_Markers:_254
+    400406: Unlabeled_Markers:_255
+    400408: Unlabeled_Markers:_256
+    400410: Unlabeled_Markers:_257
+    400412: Unlabeled_Markers:_258
+    400414: Unlabeled_Markers:_26
+    400416: Unlabeled_Markers:_261
+    400418: Unlabeled_Markers:_262
+    400420: Unlabeled_Markers:_265
+    400422: Unlabeled_Markers:_266
+    400424: Unlabeled_Markers:_267
+    400426: Unlabeled_Markers:_269
+    400428: Unlabeled_Markers:_27
+    400430: Unlabeled_Markers:_270
+    400432: Unlabeled_Markers:_271
+    400434: Unlabeled_Markers:_273
+    400436: Unlabeled_Markers:_275
+    400438: Unlabeled_Markers:_277
+    400440: Unlabeled_Markers:_28
+    400442: Unlabeled_Markers:_280
+    400444: Unlabeled_Markers:_282
+    400446: Unlabeled_Markers:_283
+    400448: Unlabeled_Markers:_284
+    400450: Unlabeled_Markers:_285
+    400452: Unlabeled_Markers:_287
+    400454: Unlabeled_Markers:_288
+    400456: Unlabeled_Markers:_289
+    400458: Unlabeled_Markers:_29
+    400460: Unlabeled_Markers:_290
+    400462: Unlabeled_Markers:_291
+    400464: Unlabeled_Markers:_292
+    400466: Unlabeled_Markers:_293
+    400468: Unlabeled_Markers:_294
+    400470: Unlabeled_Markers:_295
+    400472: Unlabeled_Markers:_296
+    400474: Unlabeled_Markers:_298
+    400476: Unlabeled_Markers:_299
+    400478: Unlabeled_Markers:_3
+    400480: Unlabeled_Markers:_30
+    400482: Unlabeled_Markers:_300
+    400484: Unlabeled_Markers:_301
+    400486: Unlabeled_Markers:_302
+    400488: Unlabeled_Markers:_305
+    400490: Unlabeled_Markers:_306
+    400492: Unlabeled_Markers:_309
+    400494: Unlabeled_Markers:_31
+    400496: Unlabeled_Markers:_311
+    400498: Unlabeled_Markers:_315
+    400500: Unlabeled_Markers:_318
+    400502: Unlabeled_Markers:_319
+    400504: Unlabeled_Markers:_32
+    400506: Unlabeled_Markers:_320
+    400508: Unlabeled_Markers:_321
+    400510: Unlabeled_Markers:_323
+    400512: Unlabeled_Markers:_324
+    400514: Unlabeled_Markers:_328
+    400516: Unlabeled_Markers:_33
+    400518: Unlabeled_Markers:_330
+    400520: Unlabeled_Markers:_331
+    400522: Unlabeled_Markers:_332
+    400524: Unlabeled_Markers:_333
+    400526: Unlabeled_Markers:_336
+    400528: Unlabeled_Markers:_337
+    400530: Unlabeled_Markers:_339
+    400532: Unlabeled_Markers:_34
+    400534: Unlabeled_Markers:_340
+    400536: Unlabeled_Markers:_341
+    400538: Unlabeled_Markers:_342
+    400540: Unlabeled_Markers:_344
+    400542: Unlabeled_Markers:_346
+    400544: Unlabeled_Markers:_347
+    400546: Unlabeled_Markers:_348
+    400548: Unlabeled_Markers:_349
+    400550: Unlabeled_Markers:_35
+    400552: Unlabeled_Markers:_350
+    400554: Unlabeled_Markers:_352
+    400556: Unlabeled_Markers:_353
+    400558: Unlabeled_Markers:_354
+    400560: Unlabeled_Markers:_356
+    400562: Unlabeled_Markers:_357
+    400564: Unlabeled_Markers:_358
+    400566: Unlabeled_Markers:_359
+    400568: Unlabeled_Markers:_36
+    400570: Unlabeled_Markers:_360
+    400572: Unlabeled_Markers:_361
+    400574: Unlabeled_Markers:_363
+    400576: Unlabeled_Markers:_364
+    400578: Unlabeled_Markers:_367
+    400580: Unlabeled_Markers:_368
+    400582: Unlabeled_Markers:_37
+    400584: Unlabeled_Markers:_373
+    400586: Unlabeled_Markers:_374
+    400588: Unlabeled_Markers:_375
+    400590: Unlabeled_Markers:_376
+    400592: Unlabeled_Markers:_379
+    400594: Unlabeled_Markers:_38
+    400596: Unlabeled_Markers:_380
+    400598: Unlabeled_Markers:_382
+    400600: Unlabeled_Markers:_383
+    400602: Unlabeled_Markers:_386
+    400604: Unlabeled_Markers:_388
+    400606: Unlabeled_Markers:_39
+    400608: Unlabeled_Markers:_390
+    400610: Unlabeled_Markers:_392
+    400612: Unlabeled_Markers:_393
+    400614: Unlabeled_Markers:_396
+    400616: Unlabeled_Markers:_397
+    400618: Unlabeled_Markers:_398
+    400620: Unlabeled_Markers:_399
+    400622: Unlabeled_Markers:_4
+    400624: Unlabeled_Markers:_40
+    400626: Unlabeled_Markers:_401
+    400628: Unlabeled_Markers:_402
+    400630: Unlabeled_Markers:_405
+    400632: Unlabeled_Markers:_406
+    400634: Unlabeled_Markers:_41
+    400636: Unlabeled_Markers:_411
+    400638: Unlabeled_Markers:_413
+    400640: Unlabeled_Markers:_414
+    400642: Unlabeled_Markers:_415
+    400644: Unlabeled_Markers:_416
+    400646: Unlabeled_Markers:_42
+    400648: Unlabeled_Markers:_420
+    400650: Unlabeled_Markers:_422
+    400652: Unlabeled_Markers:_423
+    400654: Unlabeled_Markers:_425
+    400656: Unlabeled_Markers:_426
+    400658: Unlabeled_Markers:_428
+    400660: Unlabeled_Markers:_429
+    400662: Unlabeled_Markers:_43
+    400664: Unlabeled_Markers:_432
+    400666: Unlabeled_Markers:_433
+    400668: Unlabeled_Markers:_434
+    400670: Unlabeled_Markers:_436
+    400672: Unlabeled_Markers:_438
+    400674: Unlabeled_Markers:_439
+    400676: Unlabeled_Markers:_44
+    400678: Unlabeled_Markers:_440
+    400680: Unlabeled_Markers:_442
+    400682: Unlabeled_Markers:_444
+    400684: Unlabeled_Markers:_445
+    400686: Unlabeled_Markers:_446
+    400688: Unlabeled_Markers:_448
+    400690: Unlabeled_Markers:_449
+    400692: Unlabeled_Markers:_45
+    400694: Unlabeled_Markers:_450
+    400696: Unlabeled_Markers:_451
+    400698: Unlabeled_Markers:_46
+    400700: Unlabeled_Markers:_47
+    400702: Unlabeled_Markers:_48
+    400704: Unlabeled_Markers:_49
+    400706: Unlabeled_Markers:_5
+    400708: Unlabeled_Markers:_50
+    400710: Unlabeled_Markers:_51
+    400712: Unlabeled_Markers:_52
+    400714: Unlabeled_Markers:_53
+    400716: Unlabeled_Markers:_57
+    400718: Unlabeled_Markers:_58
+    400720: Unlabeled_Markers:_59
+    400722: Unlabeled_Markers:_6
+    400724: Unlabeled_Markers:_60
+    400726: Unlabeled_Markers:_61
+    400728: Unlabeled_Markers:_63
+    400730: Unlabeled_Markers:_65
+    400732: Unlabeled_Markers:_66
+    400734: Unlabeled_Markers:_68
+    400736: Unlabeled_Markers:_7
+    400738: Unlabeled_Markers:_71
+    400740: Unlabeled_Markers:_75
+    400742: Unlabeled_Markers:_77
+    400744: Unlabeled_Markers:_78
+    400746: Unlabeled_Markers:_8
+    400748: Unlabeled_Markers:_80
+    400750: Unlabeled_Markers:_82
+    400752: Unlabeled_Markers:_84
+    400754: Unlabeled_Markers:_86
+    400756: Unlabeled_Markers:_87
+    400758: Unlabeled_Markers:_9
+    400760: Unlabeled_Markers:_90
+    400762: Unlabeled_Markers:_93
+    400764: Unlabeled_Markers:_94
+    400766: Unlabeled_Markers:_96
+    400768: Unlabeled_Markers:_98
+    400770: Unlabeled_Markers:_99
+    7400000: stepOnBoard002
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: stepOnBoard002
+      takeName: greg_getOnBoard001_x2d
+      firstFrame: 90
+      lastFrame: 179
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: greg_01:Solving:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: stepOnBoard002(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:ARIEL
+      position: {x: .0714865103, y: 1.63711548, z: -.713084519}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:C7
+      position: {x: .0841085389, y: 1.35548317, z: -.819950998}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:CLAV
+      position: {x: .11254666, y: 1.29442763, z: -.643813074}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LANK
+      position: {x: -.0912863687, y: .0988311172, z: -.841075897}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LBHD
+      position: {x: .00983828865, y: 1.502051, z: -.696492732}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LBSH
+      position: {x: -.0184592642, y: 1.32580519, z: -.835063517}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LBWT
+      position: {x: -.0025283033, y: .91787082, z: -.83744359}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LELB
+      position: {x: -.339327753, y: 1.25497162, z: -.779727459}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LFHD
+      position: {x: .0368930697, y: 1.5898515, z: -.603475153}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LFSH
+      position: {x: -.00408185273, y: 1.31283677, z: -.665015578}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LFWT
+      position: {x: .0133470846, y: .893930554, z: -.635985613}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LHEL
+      position: {x: -.0183988251, y: .0376254953, z: -.880854547}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LHIP
+      position: {x: -.0281238072, y: .554422319, z: -.66105938}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LIEL
+      position: {x: -.336590886, y: 1.20130873, z: -.742889225}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LIHAND
+      position: {x: -.632828712, y: 1.27424836, z: -.678097427}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LIWR
+      position: {x: -.566186607, y: 1.28220975, z: -.682723522}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LKNE
+      position: {x: -.0541719235, y: .440254152, z: -.714405298}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LKNI
+      position: {x: .00526124332, y: .422824204, z: -.705554426}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LMT1
+      position: {x: -.0368362218, y: .0279302616, z: -.639963686}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LMT5
+      position: {x: -.124877892, y: .0379613638, z: -.661119223}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LMWT
+      position: {x: -.0478263907, y: .890767336, z: -.713262439}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LOHAND
+      position: {x: -.633946657, y: 1.26044405, z: -.733685315}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LOWR
+      position: {x: -.568404317, y: 1.27915192, z: -.742663562}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LSHN
+      position: {x: -.0801315457, y: .31646046, z: -.752720535}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LTOE
+      position: {x: -.0861664191, y: .0425844602, z: -.618961692}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LUPA
+      position: {x: -.200144693, y: 1.32629395, z: -.762762845}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LWRE
+      position: {x: -.406454384, y: 1.30839539, z: -.730669022}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RANK
+      position: {x: .333132178, y: .0927871391, z: -.878977895}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RBHD
+      position: {x: .158489242, y: 1.51981401, z: -.743944168}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RBSH
+      position: {x: .186392233, y: 1.32163072, z: -.868663132}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RBWT
+      position: {x: .186390683, y: .923641801, z: -.868014336}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RELB
+      position: {x: .490704417, y: 1.27218664, z: -.915757835}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RFHD
+      position: {x: .177246869, y: 1.59553373, z: -.657357335}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RFSH
+      position: {x: .222529352, y: 1.31511819, z: -.697326481}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RFWT
+      position: {x: .252626002, y: .89758724, z: -.668696821}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RHEL
+      position: {x: .26801163, y: .0633068606, z: -.910316765}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RHIP
+      position: {x: .290160984, y: .721793711, z: -.679135025}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RIEL
+      position: {x: .505458534, y: 1.2226851, z: -.867661059}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RIHAND
+      position: {x: .802838266, y: 1.29409361, z: -.95429945}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RIWR
+      position: {x: .730761826, y: 1.29623568, z: -.914916992}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RKNE
+      position: {x: .303790957, y: .451324999, z: -.731301546}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RKNI
+      position: {x: .237812892, y: .430164009, z: -.719793975}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RMT1
+      position: {x: .284975618, y: .0343970992, z: -.675242245}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RMT5
+      position: {x: .38701728, y: .0222355369, z: -.705865145}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RMWT
+      position: {x: .275873363, y: .906971574, z: -.791455746}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:ROHAND
+      position: {x: .772424698, y: 1.27822733, z: -.999764085}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:ROWR
+      position: {x: .720386744, y: 1.2882185, z: -.970036983}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RSHN
+      position: {x: .315864801, y: .262524456, z: -.774657249}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RTOE
+      position: {x: .337017953, y: .0440949462, z: -.666901231}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RUPA
+      position: {x: .361308962, y: 1.3298794, z: -.86543411}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RWRE
+      position: {x: .633140385, y: 1.31064487, z: -.928575516}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:Hips
+      position: {x: 0, y: .824723125, z: 0}
+      rotation: {x: -.253274351, y: .0606329292, z: .0421242267, w: .964573145}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:LeftUpLeg
+      position: {x: -.119806364, y: 0, z: 0}
+      rotation: {x: .313232273, y: -.118900485, z: -.0785741359, w: .938921928}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:LeftLeg
+      position: {x: -0, y: -.390937567, z: 0}
+      rotation: {x: -.0122914072, y: 0, z: -0, w: .999924481}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:LeftFoot
+      position: {x: -0, y: -.377139211, z: 0}
+      rotation: {x: .0315582789, y: -.0378613025, z: -.023088824, w: .998517692}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:LeftToeBase
+      position: {x: -0, y: 0, z: .183764011}
+      rotation: {x: -.227816552, y: 0, z: -0, w: .9737041}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:LeftToeEnd
+      position: {x: -0, y: 0, z: .0749999955}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:RightUpLeg
+      position: {x: .119806364, y: 0, z: 0}
+      rotation: {x: .298694789, y: .0501601398, z: .0387753993, w: .952240467}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:RightLeg
+      position: {x: -0, y: -.390937567, z: 0}
+      rotation: {x: .0616686493, y: -0, z: -0, w: .998096704}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:RightFoot
+      position: {x: -0, y: -.377139211, z: 0}
+      rotation: {x: .0319986269, y: -.0198090188, z: -.107241511, w: .993520498}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:RightToeBase
+      position: {x: -0, y: 0, z: .183764011}
+      rotation: {x: -.424753338, y: 0, z: -0, w: .905309141}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:RightToeEnd
+      position: {x: -0, y: 0, z: .0749999955}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:Spine
+      position: {x: -0, y: .117214464, z: 0}
+      rotation: {x: .319606125, y: -.00440744357, z: -.00454756152, w: .947529316}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:Head
+      position: {x: -0, y: .466385931, z: 0}
+      rotation: {x: -.00941146165, y: .0820017532, z: .03004409, w: .996134758}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:Head_End
+      position: {x: -0, y: .114999995, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:LeftShoulder
+      position: {x: -0, y: .321645588, z: 0}
+      rotation: {x: .0528826527, y: -.204259932, z: .608317852, w: .765134454}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:LeftArm
+      position: {x: -0, y: .175323159, z: 0}
+      rotation: {x: .0651991293, y: .383319944, z: .160696, w: .907188952}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:LeftForeArm
+      position: {x: -0, y: .283601075, z: 0}
+      rotation: {x: .0733521581, y: -.0475372784, z: -.0124925431, w: .996094227}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:LeftHand
+      position: {x: -0, y: .231463, z: 0}
+      rotation: {x: -.0767285004, y: -.0119949812, z: .15398775, w: .985016048}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:LeftHandEnd
+      position: {x: -0, y: .099999994, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:LeftHandThumb
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.217672139, y: -.277796268, z: -.0647824705, w: .933408439}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:LeftHandThumbEnd
+      position: {x: -0, y: 0, z: .099999994}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:RightShoulder
+      position: {x: -0, y: .321645588, z: 0}
+      rotation: {x: .127935022, y: .335412025, z: -.595039845, w: .71906817}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:RightArm
+      position: {x: -0, y: .175323159, z: 0}
+      rotation: {x: .0906436369, y: -.586128891, z: -.158101127, w: .78945595}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:RightForeArm
+      position: {x: -0, y: .283601075, z: 0}
+      rotation: {x: .0630505756, y: .12559478, z: .0216488373, w: .989839375}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:RightHand
+      position: {x: -0, y: .231463, z: 0}
+      rotation: {x: -.219909355, y: .0135113299, z: -.0598178655, w: .973590851}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:RightHandEnd
+      position: {x: -0, y: .099999994, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:RightHandThumb
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.202096894, y: .276512682, z: .0595997274, w: .937627614}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:RightHandThumbEnd
+      position: {x: -0, y: 0, z: .099999994}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:STRN
+      position: {x: .124735028, y: 1.1138624, z: -.620739102}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:T10
+      position: {x: .073325552, y: 1.12253857, z: -.869996846}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_10179
+      position: {x: 5.17658424, y: 2.56695151, z: 2.35500455}
+      rotation: {x: .956722319, y: .252359658, z: .129715666, w: -.0645821765}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_10183
+      position: {x: -3.64065242, y: 3.10508299, z: -5.03805971}
+      rotation: {x: -.283207685, y: .378118664, z: .722162962, w: .505272508}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_10184
+      position: {x: 1.64247024, y: 3.14330411, z: -5.40355825}
+      rotation: {x: .638750255, y: .610349774, z: -.334977984, w: .327507555}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_10493
+      position: {x: -5.38659239, y: 2.59281373, z: .185800418}
+      rotation: {x: .272532642, y: .962098598, z: .00150631531, w: .00948504359}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_10494
+      position: {x: -6.19573736, y: 2.64079309, z: -4.99834681}
+      rotation: {x: .191044092, y: .908308685, z: .0371545888, w: .370266289}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_10495
+      position: {x: -5.82708549, y: 2.61719966, z: -2.84451246}
+      rotation: {x: .25338912, y: .950950623, z: -.0947032049, w: .15006043}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_10496
+      position: {x: 5.36699533, y: 2.66424322, z: 4.18686676}
+      rotation: {x: .936454833, y: .159237295, z: .304496795, w: .0705514625}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_10497
+      position: {x: 2.5470922, y: 3.07901812, z: 4.97542667}
+      rotation: {x: .645604849, y: .570320666, z: .242992267, w: -.445963502}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_10498
+      position: {x: 4.25341749, y: 2.59436512, z: -.452700973}
+      rotation: {x: .955032647, y: .290711343, z: -.0574395582, w: -.0100135859}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_10499
+      position: {x: -.847268224, y: 3.07423401, z: 5.30923557}
+      rotation: {x: .369681358, y: -.372304201, z: .596717656, w: .607168257}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_10502
+      position: {x: .332612693, y: 3.16512203, z: -5.38717985}
+      rotation: {x: .591145635, y: .626690805, z: -.356078953, w: .36195752}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_10503
+      position: {x: -4.93451452, y: 2.55926943, z: 3.13342714}
+      rotation: {x: .297969729, y: .929000497, z: .0569324605, w: -.211968869}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_12301
+      position: {x: -2.55342174, y: 2.94714069, z: 5.49751711}
+      rotation: {x: .576791465, y: .237439886, z: .773250997, w: .114091322}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_12309
+      position: {x: 3.73430681, y: 2.61173677, z: -3.49174118}
+      rotation: {x: .947617233, y: .236386433, z: -.214598283, w: -.0095232809}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:T20_15966
+      position: {x: 1.14302838, y: 3.08875823, z: 5.15560579}
+      rotation: {x: .386155695, y: -.32216081, z: .576901853, w: .643646181}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:T20_15998
+      position: {x: -1.09932899, y: 3.14656711, z: -5.26925325}
+      rotation: {x: -.257939965, y: .42152977, z: .641646564, w: .586574256}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_1
+      position: {x: -.404421031, y: 1.30584443, z: -.733952999}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_2
+      position: {x: -.0798150599, y: .316442549, z: -.752332389}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_3
+      position: {x: -.6305902, y: 1.2710849, z: -.681036234}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_4
+      position: {x: .0134792207, y: .893937409, z: -.635815442}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_5
+      position: {x: -.0473989397, y: .890454054, z: -.713213623}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_6
+      position: {x: -.564129531, y: 1.27897215, z: -.685793579}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_7
+      position: {x: .634799361, y: 1.30324066, z: -.929019749}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_8
+      position: {x: -.027725501, y: .554358602, z: -.660616279}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_9
+      position: {x: -.0911845863, y: .098927401, z: -.84099263}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_10
+      position: {x: .337086737, y: .0439757444, z: -.667024076}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_11
+      position: {x: .315912664, y: .262371093, z: -.774323642}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_12
+      position: {x: -.0368051417, y: .0279593058, z: -.639946461}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_13
+      position: {x: .124746069, y: 1.11304522, z: -.622087598}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_14
+      position: {x: .253394574, y: .8974635, z: -.668203771}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_15
+      position: {x: -.124825351, y: .0379633233, z: -.661118329}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_16
+      position: {x: -.198063686, y: 1.32502007, z: -.766218185}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_17
+      position: {x: .303914666, y: .451263905, z: -.730529904}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_18
+      position: {x: .187165022, y: .922757089, z: -.867989838}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_19
+      position: {x: .804153442, y: 1.28477812, z: -.955011785}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_20
+      position: {x: .290688902, y: .721630454, z: -.678378761}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_21
+      position: {x: -.631753325, y: 1.25704205, z: -.736538231}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_22
+      position: {x: .276743501, y: .906265676, z: -.791014373}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_23
+      position: {x: -.0535563566, y: .44024542, z: -.713957071}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_24
+      position: {x: .387006611, y: .0223081037, z: -.705895722}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_25
+      position: {x: .00569669344, y: .422806203, z: -.704832196}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_26
+      position: {x: -.333598405, y: 1.19903266, z: -.746798933}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_27
+      position: {x: .732070386, y: 1.28771389, z: -.915685534}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_28
+      position: {x: .285125911, y: .0342828222, z: -.67564255}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_29
+      position: {x: .237761497, y: .430154204, z: -.719261169}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_30
+      position: {x: .181511745, y: 1.59475458, z: -.658268273}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_31
+      position: {x: .33321014, y: .0928389132, z: -.878987193}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_32
+      position: {x: -.0183802862, y: .0376282111, z: -.880858362}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_33
+      position: {x: -.566334307, y: 1.27672279, z: -.745773196}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_34
+      position: {x: -.00196508644, y: .917121649, z: -.83765465}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_35
+      position: {x: .268091172, y: .0633965954, z: -.910355508}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_36
+      position: {x: -.00287036342, y: 1.31217253, z: -.66718328}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_37
+      position: {x: .721823335, y: 1.27969539, z: -.970684707}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_38
+      position: {x: .506653607, y: 1.21559668, z: -.869261146}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_39
+      position: {x: .113836475, y: 1.29353774, z: -.644858301}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_40
+      position: {x: .0756974071, y: 1.6367712, z: -.71442914}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_41
+      position: {x: .0409462638, y: 1.5907675, z: -.603921056}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_42
+      position: {x: .773695767, y: 1.26911926, z: -1.00045609}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_43
+      position: {x: .36324206, y: 1.32629013, z: -.86606884}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_44
+      position: {x: -.337255746, y: 1.25251305, z: -.783930361}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_45
+      position: {x: -.086147204, y: .0426154882, z: -.619031668}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_46
+      position: {x: .224506482, y: 1.31325531, z: -.697810471}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_47
+      position: {x: .0129955411, y: 1.50231338, z: -.696533859}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_48
+      position: {x: .0745751411, y: 1.12126315, z: -.871266603}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_49
+      position: {x: -.0153338592, y: 1.32498777, z: -.836544931}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_50
+      position: {x: .161091596, y: 1.51853573, z: -.743955612}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_51
+      position: {x: .492119849, y: 1.26649332, z: -.916427314}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_52
+      position: {x: .188817322, y: 1.32004488, z: -.869214058}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_53
+      position: {x: .0867876112, y: 1.35493004, z: -.820354462}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_57
+      position: {x: 2.71421218, y: .166955128, z: -.290861338}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_58
+      position: {x: 2.61973238, y: 1.04975975, z: .258043945}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_59
+      position: {x: 2.65984178, y: 1.00404108, z: -.0227565598}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_60
+      position: {x: 2.65749121, y: 1.24144554, z: .25119105}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_61
+      position: {x: 2.76702046, y: .12003126, z: -.041428376}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_63
+      position: {x: 2.81728935, y: 1.01769388, z: -.137299985}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_65
+      position: {x: 2.84662199, y: 1.20670974, z: .0209230427}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_66
+      position: {x: 2.72075248, y: .819876552, z: .308143824}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_68
+      position: {x: 2.83816576, y: .481750757, z: .0844224915}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_71
+      position: {x: 2.90025067, y: .163350999, z: -.115819305}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_75
+      position: {x: 2.69954777, y: .883969069, z: .301069975}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_77
+      position: {x: 2.8863759, y: .124807298, z: -.0175776407}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_78
+      position: {x: 3.10578299, y: .12037579, z: .0783223212}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_80
+      position: {x: 2.76701522, y: .881837606, z: .328056723}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_82
+      position: {x: 2.83175707, y: 1.23252785, z: .317878515}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_84
+      position: {x: 2.85411072, y: .815803766, z: .360539228}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_86
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_87
+      position: {x: 2.80566621, y: 1.0860225, z: .289920539}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_90
+      position: {x: 2.88876653, y: 1.23179686, z: .341366649}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_93
+      position: {x: 2.95311952, y: .880854011, z: .405196935}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_94
+      position: {x: 3.06342363, y: .356590807, z: .101706989}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_96
+      position: {x: 2.86272383, y: 1.08511436, z: .315495968}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_98
+      position: {x: 2.98175836, y: 1.04033816, z: .406984389}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_99
+      position: {x: 3.03461838, y: .820347786, z: .440363526}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_100
+      position: {x: 3.12995148, y: .125906751, z: .0681014583}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_102
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_103
+      position: {x: 3.15834641, y: .374378264, z: .19220607}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_105
+      position: {x: 3.18763089, y: .123566911, z: .102138564}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_110
+      position: {x: 3.51809692, y: .190071926, z: .0924146026}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_111
+      position: {x: 3.4476006, y: .162719443, z: .0917897224}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_113
+      position: {x: 3.43528557, y: .148860276, z: .366030753}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_114
+      position: {x: 3.35873914, y: .300779045, z: .281862974}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_115
+      position: {x: 3.49801803, y: .162375778, z: .118133284}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_116
+      position: {x: 3.45378399, y: .228428662, z: .267651975}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_117
+      position: {x: 3.53547359, y: .16377373, z: .143182382}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_123
+      position: {x: 3.70766044, y: .101110771, z: .478268802}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_124
+      position: {x: 3.68223166, y: .196453854, z: .192887098}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_125
+      position: {x: 3.60967064, y: .173072577, z: .187872365}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_126
+      position: {x: 3.7116611, y: .2046078, z: .211126745}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_129
+      position: {x: 3.75630689, y: .134455815, z: .430308342}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_132
+      position: {x: 4.06143236, y: .102403648, z: .805754304}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_133
+      position: {x: 4.18431139, y: .0511168949, z: .922747791}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_134
+      position: {x: 4.07273245, y: .112048715, z: .811639845}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_138
+      position: {x: 4.18888807, y: .0517519861, z: .926843941}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_139
+      position: {x: 4.20070744, y: .0492563508, z: .939022958}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_140
+      position: {x: 4.22385168, y: .0536570437, z: .965061545}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_144
+      position: {x: 4.20439243, y: .0721202344, z: .903627753}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_145
+      position: {x: 4.10472202, y: .090952687, z: .942518413}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_147
+      position: {x: 4.02066517, y: .109706625, z: .904509127}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_148
+      position: {x: 3.98948812, y: .110781379, z: .854647577}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_149
+      position: {x: 3.96658564, y: .110448509, z: .818480194}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_151
+      position: {x: 3.98999381, y: .0927622765, z: .737021923}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_153
+      position: {x: 3.97269392, y: .0648807883, z: .792482913}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_155
+      position: {x: 4.00219059, y: .0699127167, z: .684251547}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_156
+      position: {x: 3.96647263, y: .0771611556, z: .720261991}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_157
+      position: {x: 3.99841237, y: .0590276048, z: .690263212}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_158
+      position: {x: 3.95151186, y: .067377612, z: .724265397}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_159
+      position: {x: 3.96290326, y: .0371924303, z: .773368359}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_160
+      position: {x: 3.99412441, y: .0499560572, z: .6895836}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_161
+      position: {x: 3.94878507, y: .0540640503, z: .724243939}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_162
+      position: {x: 3.99532533, y: .0480627604, z: .690265119}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_163
+      position: {x: 4.36498928, y: .039995227, z: 1.07454383}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_166
+      position: {x: 4.28484678, y: .0539997034, z: .994000196}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_167
+      position: {x: 3.94496369, y: .0528483726, z: .722314}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_169
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_170
+      position: {x: 4.12367582, y: .0755615905, z: .888344705}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_172
+      position: {x: 4.00621271, y: .0707999915, z: .897851527}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_174
+      position: {x: 3.9207294, y: .0594270788, z: .923639953}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_175
+      position: {x: 3.82322288, y: .0594009422, z: .774502218}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_177
+      position: {x: 3.58094049, y: .095476523, z: .699800551}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_179
+      position: {x: 3.61431694, y: .0816584155, z: .657152236}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_180
+      position: {x: 3.47400188, y: .137971014, z: .541386843}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_181
+      position: {x: 3.43131185, y: .104090229, z: .634794593}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_187
+      position: {x: 3.39278698, y: .0792834163, z: .527831197}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_190
+      position: {x: 3.95393848, y: .0401277877, z: .681264758}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_193
+      position: {x: 3.96348691, y: .0797272176, z: .69933635}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_194
+      position: {x: 3.14240718, y: .554628789, z: .391401142}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_195
+      position: {x: 3.42729855, y: .0374476984, z: .478322506}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_196
+      position: {x: 3.48725772, y: .267077446, z: .585448802}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_197
+      position: {x: 3.85664654, y: .147661477, z: .519789815}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_200
+      position: {x: 3.76862693, y: .117875084, z: .445288181}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_201
+      position: {x: 3.80763841, y: .134505108, z: .392395169}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_207
+      position: {x: 3.13371015, y: .772073328, z: .626616001}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_211
+      position: {x: 3.37912226, y: .0485043377, z: .510275662}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_213
+      position: {x: 3.10717249, y: .831913888, z: .624069333}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_214
+      position: {x: 3.43362093, y: .252102107, z: .576580822}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_216
+      position: {x: 3.38051963, y: .0477426536, z: .510036111}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_218
+      position: {x: 3.53360534, y: .159055576, z: .301758528}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_220
+      position: {x: 3.47602415, y: .158343911, z: .291983426}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_221
+      position: {x: 3.3803575, y: .0476638116, z: .510124564}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_222
+      position: {x: 3.04694414, y: .820565403, z: .578209817}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_224
+      position: {x: 3.01093316, y: .756295443, z: .538792312}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_229
+      position: {x: 3.120502, y: 1.00799441, z: .649564981}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_231
+      position: {x: 2.98188233, y: .736246765, z: .507758558}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_233
+      position: {x: 2.98126173, y: .722869873, z: .49170509}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_235
+      position: {x: 3.3784759, y: .0452610292, z: .509838879}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_237
+      position: {x: 2.98143363, y: .789986551, z: .514446616}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_238
+      position: {x: 3.14310718, y: .499419779, z: .233279318}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_239
+      position: {x: 3.0436306, y: 1.15992868, z: .555767}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_240
+      position: {x: 3.37510061, y: .0448660329, z: .508230507}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_241
+      position: {x: 3.1568265, y: .348318785, z: .153505892}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_244
+      position: {x: 2.94489169, y: .707068622, z: .471111506}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_246
+      position: {x: 3.13041902, y: .481964678, z: .163039744}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_247
+      position: {x: 3.35884738, y: .259732425, z: .552217901}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_249
+      position: {x: 3.13616204, y: .600136042, z: .179536849}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_251
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_254
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_255
+      position: {x: 3.01053405, y: .468316525, z: .169189945}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_256
+      position: {x: 2.98552394, y: .999960899, z: .508430481}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_257
+      position: {x: 3.45276427, y: .175549924, z: .621133387}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_258
+      position: {x: 3.36031437, y: .0419464372, z: .50358361}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_261
+      position: {x: 2.96440244, y: 1.16645646, z: .485019714}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_262
+      position: {x: 2.92958403, y: .054842934, z: .0266847461}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_265
+      position: {x: 2.86452961, y: .0700528398, z: .0389825329}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_266
+      position: {x: 2.9822638, y: .470176786, z: .154064268}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_267
+      position: {x: 2.85604429, y: .78933692, z: .432135999}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_269
+      position: {x: 3.02076721, y: .415571928, z: .386045188}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_270
+      position: {x: 2.84772396, y: .733062565, z: .367078662}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_271
+      position: {x: 2.8543036, y: .725444078, z: .429095864}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_273
+      position: {x: 2.97849774, y: .591323018, z: .0880430043}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_275
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_277
+      position: {x: 3.12072492, y: .285408169, z: .4290362}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_280
+      position: {x: 3.18972397, y: .0723521188, z: .445489943}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_282
+      position: {x: 2.91020656, y: .420961291, z: .243262663}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_283
+      position: {x: 2.7960186, y: .747554481, z: .416397899}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_284
+      position: {x: 2.96634555, y: .903140306, z: .403949261}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_285
+      position: {x: 2.94506621, y: .455816686, z: .126071945}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_287
+      position: {x: 2.81721759, y: .914216161, z: .41243571}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_288
+      position: {x: 2.87562299, y: 1.04703283, z: .443633676}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_289
+      position: {x: 2.9519341, y: .58324033, z: .060790062}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_290
+      position: {x: 2.85864258, y: 1.2128166, z: .412783891}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_291
+      position: {x: 3.0868504, y: .0766562, z: .396455556}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_292
+      position: {x: 2.75128484, y: .761261582, z: .349492282}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_293
+      position: {x: 2.75764084, y: .933889687, z: .40566656}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_294
+      position: {x: 2.97906494, y: .0714056492, z: .341804415}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_295
+      position: {x: 2.97080016, y: .454871714, z: .0614130422}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_296
+      position: {x: 2.73187304, y: .762904465, z: .401336789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_298
+      position: {x: 2.78923488, y: .745518625, z: .286904842}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_299
+      position: {x: 2.92382622, y: .0467123874, z: .029386837}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_300
+      position: {x: 2.98264742, y: .227539748, z: .349453002}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_301
+      position: {x: 2.71768451, y: .478081495, z: .144388184}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_302
+      position: {x: 2.81916809, y: 1.27750742, z: .0826653168}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_305
+      position: {x: 2.75231194, y: .759900331, z: .264335901}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_306
+      position: {x: 2.8383925, y: 1.02226245, z: .35339281}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_309
+      position: {x: 2.92350912, y: .0457680225, z: .0296108071}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_311
+      position: {x: 2.64526057, y: .825882614, z: .378482878}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_315
+      position: {x: 2.5984714, y: .775763392, z: .317887217}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_318
+      position: {x: 2.9222641, y: .0452212878, z: .0294242762}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_319
+      position: {x: 2.85762048, y: .0332594402, z: .0994420573}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_320
+      position: {x: 2.89307308, y: .912006259, z: .270400256}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_321
+      position: {x: 2.59287786, y: .755179286, z: .361941814}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_323
+      position: {x: 2.81798387, y: 1.27510738, z: -.0371479727}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_324
+      position: {x: 2.92683578, y: .437903732, z: .0233088657}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_328
+      position: {x: 2.91165471, y: .965337276, z: -.179914847}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_330
+      position: {x: 2.6184845, y: .750620246, z: .184492409}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_331
+      position: {x: 2.61216283, y: .0640225708, z: .0826642811}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_332
+      position: {x: 2.8612082, y: .0513753891, z: .0540286191}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_333
+      position: {x: 2.77670765, y: .832310975, z: -.242324859}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_336
+      position: {x: 2.74397182, y: 1.26588011, z: -.0654598624}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_337
+      position: {x: 2.89511538, y: .433286428, z: .00657809339}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_339
+      position: {x: 2.70234513, y: .783627808, z: -.297981709}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_340
+      position: {x: 2.86705256, y: 1.16066182, z: -.149031907}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_341
+      position: {x: 2.78409576, y: .814022481, z: -.277791798}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_342
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_344
+      position: {x: 2.47711992, y: .781158566, z: .253650308}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_346
+      position: {x: 2.45055008, y: .703722298, z: .25236401}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_347
+      position: {x: 2.63922429, y: 1.47274303, z: -.0584918931}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_348
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_349
+      position: {x: 2.66386414, y: .759999692, z: -.33437705}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_350
+      position: {x: 2.88350153, y: .305854231, z: -.00344771496}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_352
+      position: {x: 2.49886155, y: 1.22905397, z: .0993479341}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_353
+      position: {x: 2.91652346, y: .0445402674, z: .0207409002}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_354
+      position: {x: 2.44793844, y: .860426009, z: .0544896796}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_356
+      position: {x: 2.41072631, y: .753908575, z: .214668363}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_357
+      position: {x: 2.57370257, y: .786846459, z: -.341805756}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_358
+      position: {x: 2.62496185, y: .76022011, z: -.344352245}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_359
+      position: {x: 2.88380694, y: .043284297, z: .0332783312}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_360
+      position: {x: 2.48070788, y: 1.46563017, z: .0666481033}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_361
+      position: {x: 3.00905323, y: .19806841, z: .156281888}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_363
+      position: {x: 2.35560989, y: .669026613, z: .203356922}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_364
+      position: {x: 2.64905906, y: .863279164, z: -.137890011}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_367
+      position: {x: 2.91014481, y: .0566251539, z: .00753856776}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_368
+      position: {x: 2.86159134, y: .0345574878, z: .0263316389}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_373
+      position: {x: 2.50750041, y: .787685394, z: -.348191291}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_374
+      position: {x: 2.55941486, y: .762407303, z: -.349695921}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_375
+      position: {x: 2.35453749, y: .657177925, z: .218407393}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_376
+      position: {x: 2.67889094, y: .324162215, z: -.13925916}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_379
+      position: {x: 2.47165728, y: 1.26578927, z: .147745222}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_380
+      position: {x: 2.35478473, y: 1.60237229, z: -.0446700193}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_382
+      position: {x: 2.57411551, y: .869614303, z: -.163116112}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_383
+      position: {x: 2.31612444, y: .658011615, z: .19678022}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_386
+      position: {x: 2.60007143, y: 1.18211555, z: -.20340389}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_388
+      position: {x: 2.243788, y: .669925988, z: .116107173}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_390
+      position: {x: 2.81308103, y: .328693002, z: .0670789853}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_392
+      position: {x: 2.2177639, y: .765858948, z: .0990826562}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_393
+      position: {x: 2.49495387, y: 1.11630476, z: .0316782668}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_396
+      position: {x: 2.52124238, y: .896797717, z: -.177991599}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_397
+      position: {x: 2.26305223, y: 1.56252968, z: -.173736364}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_398
+      position: {x: 2.19707227, y: .73562938, z: -.0305361785}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_399
+      position: {x: 2.46164966, y: .787167549, z: -.336665094}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_401
+      position: {x: 2.27095175, y: 1.27787328, z: -.113020264}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_402
+      position: {x: 2.39328218, y: 1.35922587, z: .0130199259}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_405
+      position: {x: 2.43275428, y: .406840324, z: -.312500656}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_406
+      position: {x: 2.18202472, y: 1.27282286, z: -.0155405132}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_411
+      position: {x: 2.09784007, y: 1.56854141, z: -.08860825}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_413
+      position: {x: 2.15634608, y: 1.27751398, z: -.0279409569}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_414
+      position: {x: 2.39975023, y: .893226504, z: -.321937948}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_415
+      position: {x: 2.42263341, y: .814239562, z: -.349585265}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_416
+      position: {x: 2.33031774, y: 1.37250316, z: -.00291537936}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_420
+      position: {x: 2.46283054, y: .937969506, z: -.0809628293}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_422
+      position: {x: 2.36271453, y: .912629783, z: -.345884025}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_423
+      position: {x: 2.13034201, y: 1.52574217, z: -.043682117}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_425
+      position: {x: 2.38917398, y: .939126432, z: -.219724834}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_426
+      position: {x: 2.49160814, y: 1.05757642, z: -.209626123}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_428
+      position: {x: 2.22730541, y: .164208576, z: -.500235856}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_429
+      position: {x: 2.37214327, y: .25001809, z: -.355431855}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_432
+      position: {x: 1.99689424, y: 1.57182872, z: -.134159058}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_433
+      position: {x: 2.38910961, y: .94101882, z: -.114499651}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_434
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_436
+      position: {x: 2.2958076, y: .228927583, z: -.437982827}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_438
+      position: {x: 2.03974152, y: .902025461, z: -.0773842707}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_439
+      position: {x: 2.14475489, y: .142009258, z: -.571861088}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_440
+      position: {x: 2.29230428, y: 1.35006487, z: -.111307085}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_442
+      position: {x: 2.240242, y: .890956461, z: -.393996447}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_444
+      position: {x: 1.92050338, y: 1.56876242, z: -.14701438}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_445
+      position: {x: 2.03374553, y: 1.29389346, z: -.192340583}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_446
+      position: {x: 2.303931, y: 1.02324831, z: -.244499087}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_448
+      position: {x: 1.97565472, y: 1.58205819, z: -.279944062}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_449
+      position: {x: 2.15762329, y: .873122752, z: -.424227506}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_450
+      position: {x: 1.98028183, y: 1.11800134, z: -.215389833}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_451
+      position: {x: 2.25240541, y: 1.02152717, z: -.273914814}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: c56d3cedbcfdba849a035d3327768539,
+    type: 3}
+  animationType: 3
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1154 @@
+fileFormatVersion: 2
+guid: 856b59c8b5f19bf4cba518606f121223
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: greg_01
+    100002: greg_01:ARIEL
+    100004: greg_01:C7
+    100006: greg_01:CLAV
+    100008: greg_01:LANK
+    100010: greg_01:LBHD
+    100012: greg_01:LBSH
+    100014: greg_01:LBWT
+    100016: greg_01:LELB
+    100018: greg_01:LFHD
+    100020: greg_01:LFSH
+    100022: greg_01:LFWT
+    100024: greg_01:LHEL
+    100026: greg_01:LHIP
+    100028: greg_01:LIEL
+    100030: greg_01:LIHAND
+    100032: greg_01:LIWR
+    100034: greg_01:LKNE
+    100036: greg_01:LKNI
+    100038: greg_01:LMT1
+    100040: greg_01:LMT5
+    100042: greg_01:LMWT
+    100044: greg_01:LOHAND
+    100046: greg_01:LOWR
+    100048: greg_01:LSHN
+    100050: greg_01:LTOE
+    100052: greg_01:LUPA
+    100054: greg_01:LWRE
+    100056: greg_01:RANK
+    100058: greg_01:RBHD
+    100060: greg_01:RBSH
+    100062: greg_01:RBWT
+    100064: greg_01:RELB
+    100066: greg_01:RFHD
+    100068: greg_01:RFSH
+    100070: greg_01:RFWT
+    100072: greg_01:RHEL
+    100074: greg_01:RHIP
+    100076: greg_01:RIEL
+    100078: greg_01:RIHAND
+    100080: greg_01:RIWR
+    100082: greg_01:RKNE
+    100084: greg_01:RKNI
+    100086: greg_01:RMT1
+    100088: greg_01:RMT5
+    100090: greg_01:RMWT
+    100092: greg_01:ROHAND
+    100094: greg_01:ROWR
+    100096: greg_01:RSHN
+    100098: greg_01:RTOE
+    100100: greg_01:RUPA
+    100102: greg_01:RWRE
+    100104: greg_01:Solving
+    100106: greg_01:Solving:Head
+    100108: greg_01:Solving:Head_End
+    100110: greg_01:Solving:Hips
+    100112: greg_01:Solving:LeftArm
+    100114: greg_01:Solving:LeftFoot
+    100116: greg_01:Solving:LeftForeArm
+    100118: greg_01:Solving:LeftHand
+    100120: greg_01:Solving:LeftHandEnd
+    100122: greg_01:Solving:LeftHandThumb
+    100124: greg_01:Solving:LeftHandThumbEnd
+    100126: greg_01:Solving:LeftLeg
+    100128: greg_01:Solving:LeftShoulder
+    100130: greg_01:Solving:LeftToeBase
+    100132: greg_01:Solving:LeftToeEnd
+    100134: greg_01:Solving:LeftUpLeg
+    100136: greg_01:Solving:RightArm
+    100138: greg_01:Solving:RightFoot
+    100140: greg_01:Solving:RightForeArm
+    100142: greg_01:Solving:RightHand
+    100144: greg_01:Solving:RightHandEnd
+    100146: greg_01:Solving:RightHandThumb
+    100148: greg_01:Solving:RightHandThumbEnd
+    100150: greg_01:Solving:RightLeg
+    100152: greg_01:Solving:RightShoulder
+    100154: greg_01:Solving:RightToeBase
+    100156: greg_01:Solving:RightToeEnd
+    100158: greg_01:Solving:RightUpLeg
+    100160: greg_01:Solving:Spine
+    100162: greg_01:STRN
+    100164: greg_01:T10
+    100166: System
+    100168: System:MX_3p_10179
+    100170: System:MX_3p_10183
+    100172: System:MX_3p_10184
+    100174: System:MX_3p_10493
+    100176: System:MX_3p_10494
+    100178: System:MX_3p_10495
+    100180: System:MX_3p_10496
+    100182: System:MX_3p_10497
+    100184: System:MX_3p_10498
+    100186: System:MX_3p_10499
+    100188: System:MX_3p_10502
+    100190: System:MX_3p_10503
+    100192: System:MX_3p_12301
+    100194: System:MX_3p_12309
+    100196: System:T20_15966
+    100198: System:T20_15998
+    100200: Unlabeled_Markers
+    100202: Unlabeled_Markers:_102
+    100204: Unlabeled_Markers:_16
+    100206: Unlabeled_Markers:_24
+    100208: Unlabeled_Markers:_41
+    100210: Unlabeled_Markers:_50
+    100212: Unlabeled_Markers:_62
+    100214: Unlabeled_Markers:_63
+    100216: Unlabeled_Markers:_67
+    100218: Unlabeled_Markers:_69
+    100220: Unlabeled_Markers:_70
+    100222: Unlabeled_Markers:_71
+    100224: Unlabeled_Markers:_72
+    100226: Unlabeled_Markers:_73
+    100228: Unlabeled_Markers:_74
+    100230: Unlabeled_Markers:_75
+    100232: Unlabeled_Markers:_76
+    100234: Unlabeled_Markers:_77
+    100236: Unlabeled_Markers:_78
+    100238: Unlabeled_Markers:_79
+    100240: Unlabeled_Markers:_80
+    100242: Unlabeled_Markers:_82
+    100244: Unlabeled_Markers:_84
+    100246: Unlabeled_Markers:_85
+    100248: Unlabeled_Markers:_89
+    100250: Unlabeled_Markers:_90
+    100252: Unlabeled_Markers:_92
+    100254: Unlabeled_Markers:_94
+    100256: Unlabeled_Markers:_97
+    100258: //RootNode
+    400000: greg_01
+    400002: greg_01:ARIEL
+    400004: greg_01:C7
+    400006: greg_01:CLAV
+    400008: greg_01:LANK
+    400010: greg_01:LBHD
+    400012: greg_01:LBSH
+    400014: greg_01:LBWT
+    400016: greg_01:LELB
+    400018: greg_01:LFHD
+    400020: greg_01:LFSH
+    400022: greg_01:LFWT
+    400024: greg_01:LHEL
+    400026: greg_01:LHIP
+    400028: greg_01:LIEL
+    400030: greg_01:LIHAND
+    400032: greg_01:LIWR
+    400034: greg_01:LKNE
+    400036: greg_01:LKNI
+    400038: greg_01:LMT1
+    400040: greg_01:LMT5
+    400042: greg_01:LMWT
+    400044: greg_01:LOHAND
+    400046: greg_01:LOWR
+    400048: greg_01:LSHN
+    400050: greg_01:LTOE
+    400052: greg_01:LUPA
+    400054: greg_01:LWRE
+    400056: greg_01:RANK
+    400058: greg_01:RBHD
+    400060: greg_01:RBSH
+    400062: greg_01:RBWT
+    400064: greg_01:RELB
+    400066: greg_01:RFHD
+    400068: greg_01:RFSH
+    400070: greg_01:RFWT
+    400072: greg_01:RHEL
+    400074: greg_01:RHIP
+    400076: greg_01:RIEL
+    400078: greg_01:RIHAND
+    400080: greg_01:RIWR
+    400082: greg_01:RKNE
+    400084: greg_01:RKNI
+    400086: greg_01:RMT1
+    400088: greg_01:RMT5
+    400090: greg_01:RMWT
+    400092: greg_01:ROHAND
+    400094: greg_01:ROWR
+    400096: greg_01:RSHN
+    400098: greg_01:RTOE
+    400100: greg_01:RUPA
+    400102: greg_01:RWRE
+    400104: greg_01:Solving
+    400106: greg_01:Solving:Head
+    400108: greg_01:Solving:Head_End
+    400110: greg_01:Solving:Hips
+    400112: greg_01:Solving:LeftArm
+    400114: greg_01:Solving:LeftFoot
+    400116: greg_01:Solving:LeftForeArm
+    400118: greg_01:Solving:LeftHand
+    400120: greg_01:Solving:LeftHandEnd
+    400122: greg_01:Solving:LeftHandThumb
+    400124: greg_01:Solving:LeftHandThumbEnd
+    400126: greg_01:Solving:LeftLeg
+    400128: greg_01:Solving:LeftShoulder
+    400130: greg_01:Solving:LeftToeBase
+    400132: greg_01:Solving:LeftToeEnd
+    400134: greg_01:Solving:LeftUpLeg
+    400136: greg_01:Solving:RightArm
+    400138: greg_01:Solving:RightFoot
+    400140: greg_01:Solving:RightForeArm
+    400142: greg_01:Solving:RightHand
+    400144: greg_01:Solving:RightHandEnd
+    400146: greg_01:Solving:RightHandThumb
+    400148: greg_01:Solving:RightHandThumbEnd
+    400150: greg_01:Solving:RightLeg
+    400152: greg_01:Solving:RightShoulder
+    400154: greg_01:Solving:RightToeBase
+    400156: greg_01:Solving:RightToeEnd
+    400158: greg_01:Solving:RightUpLeg
+    400160: greg_01:Solving:Spine
+    400162: greg_01:STRN
+    400164: greg_01:T10
+    400166: System
+    400168: System:MX_3p_10179
+    400170: System:MX_3p_10183
+    400172: System:MX_3p_10184
+    400174: System:MX_3p_10493
+    400176: System:MX_3p_10494
+    400178: System:MX_3p_10495
+    400180: System:MX_3p_10496
+    400182: System:MX_3p_10497
+    400184: System:MX_3p_10498
+    400186: System:MX_3p_10499
+    400188: System:MX_3p_10502
+    400190: System:MX_3p_10503
+    400192: System:MX_3p_12301
+    400194: System:MX_3p_12309
+    400196: System:T20_15966
+    400198: System:T20_15998
+    400200: Unlabeled_Markers
+    400202: Unlabeled_Markers:_102
+    400204: Unlabeled_Markers:_16
+    400206: Unlabeled_Markers:_24
+    400208: Unlabeled_Markers:_41
+    400210: Unlabeled_Markers:_50
+    400212: Unlabeled_Markers:_62
+    400214: Unlabeled_Markers:_63
+    400216: Unlabeled_Markers:_67
+    400218: Unlabeled_Markers:_69
+    400220: Unlabeled_Markers:_70
+    400222: Unlabeled_Markers:_71
+    400224: Unlabeled_Markers:_72
+    400226: Unlabeled_Markers:_73
+    400228: Unlabeled_Markers:_74
+    400230: Unlabeled_Markers:_75
+    400232: Unlabeled_Markers:_76
+    400234: Unlabeled_Markers:_77
+    400236: Unlabeled_Markers:_78
+    400238: Unlabeled_Markers:_79
+    400240: Unlabeled_Markers:_80
+    400242: Unlabeled_Markers:_82
+    400244: Unlabeled_Markers:_84
+    400246: Unlabeled_Markers:_85
+    400248: Unlabeled_Markers:_89
+    400250: Unlabeled_Markers:_90
+    400252: Unlabeled_Markers:_92
+    400254: Unlabeled_Markers:_94
+    400256: Unlabeled_Markers:_97
+    400258: //RootNode
+    7400000: wipeOut001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: wipeOut001
+      takeName: greg_wipeOut002_x2d
+      firstFrame: 159
+      lastFrame: 314
+      wrapMode: 0
+      orientationOffsetY: 46.5800018
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: greg_01:Solving:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: greg_01:Solving:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: wipeOut001(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:ARIEL
+      position: {x: .0995890573, y: 1.64044762, z: -.730868459}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:C7
+      position: {x: .113230191, y: 1.35185397, z: -.832270741}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:CLAV
+      position: {x: .130873606, y: 1.29478073, z: -.651333392}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LANK
+      position: {x: -.0534078032, y: .0983984172, z: -.857852817}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LBHD
+      position: {x: .0335694626, y: 1.50744796, z: -.714727521}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LBSH
+      position: {x: .00814428926, y: 1.31781125, z: -.850215614}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LBWT
+      position: {x: .0301513411, y: .920090139, z: -.840064764}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LELB
+      position: {x: -.322910994, y: 1.28322053, z: -.7764346}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LFHD
+      position: {x: .0614610165, y: 1.59500039, z: -.621375501}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LFSH
+      position: {x: .0169372149, y: 1.31374145, z: -.680492938}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LFWT
+      position: {x: .0386262313, y: .893072367, z: -.637987912}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LHEL
+      position: {x: .0212497711, y: .0377972275, z: -.892947137}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LHIP
+      position: {x: -.000425384409, y: .5539518, z: -.667890966}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LIEL
+      position: {x: -.323704928, y: 1.2319597, z: -.737497091}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LIHAND
+      position: {x: -.608641207, y: 1.33864403, z: -.669331372}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LIWR
+      position: {x: -.541633964, y: 1.33971, z: -.675722659}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LKNE
+      position: {x: -.0239139032, y: .440970421, z: -.724617898}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LKNI
+      position: {x: .0353326164, y: .423700601, z: -.710127711}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LMT1
+      position: {x: -.0108835381, y: .0271851197, z: -.65006268}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LMT5
+      position: {x: -.092012994, y: .0431993529, z: -.683298886}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LMWT
+      position: {x: -.0194159113, y: .894029319, z: -.716478407}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LOHAND
+      position: {x: -.612655699, y: 1.3198781, z: -.723325491}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LOWR
+      position: {x: -.54606843, y: 1.33122742, z: -.735248387}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LSHN
+      position: {x: -.0506646521, y: .319971681, z: -.768981457}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LTOE
+      position: {x: -.0585498698, y: .0463011414, z: -.636559069}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LUPA
+      position: {x: -.175931618, y: 1.33742905, z: -.777322769}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:LWRE
+      position: {x: -.381640077, y: 1.34594727, z: -.728218913}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RANK
+      position: {x: .359874576, y: .0936738402, z: -.875158906}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RBHD
+      position: {x: .182928592, y: 1.52079189, z: -.759983659}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RBSH
+      position: {x: .222391844, y: 1.31793654, z: -.870930016}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RBWT
+      position: {x: .218031421, y: .924666345, z: -.866726339}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RELB
+      position: {x: .540806592, y: 1.31273222, z: -.867525518}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RFHD
+      position: {x: .202948049, y: 1.59599435, z: -.673479974}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RFSH
+      position: {x: .241585076, y: 1.31852257, z: -.696930587}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RFWT
+      position: {x: .277801961, y: .897765934, z: -.665644825}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RHEL
+      position: {x: .294193447, y: .0638777688, z: -.90677321}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RHIP
+      position: {x: .319164485, y: .721131861, z: -.677509904}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RIEL
+      position: {x: .555807292, y: 1.26958728, z: -.813919485}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RIHAND
+      position: {x: .850322604, y: 1.37457025, z: -.87521863}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RIWR
+      position: {x: .77365917, y: 1.37132168, z: -.841748178}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RKNE
+      position: {x: .332762718, y: .450096488, z: -.732336342}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RKNI
+      position: {x: .267417967, y: .428361237, z: -.719288945}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RMT1
+      position: {x: .312320739, y: .0337668471, z: -.673389435}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RMT5
+      position: {x: .414474815, y: .0239644423, z: -.702401102}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RMWT
+      position: {x: .305979431, y: .909371793, z: -.787769139}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:ROHAND
+      position: {x: .825702131, y: 1.35163176, z: -.920917571}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:ROWR
+      position: {x: .77093327, y: 1.35660398, z: -.896234572}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RSHN
+      position: {x: .341569901, y: .254308343, z: -.772345543}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RTOE
+      position: {x: .364673942, y: .0432859212, z: -.663091898}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RUPA
+      position: {x: .397988886, y: 1.35444045, z: -.844037533}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:RWRE
+      position: {x: .676791847, y: 1.37026703, z: -.867355227}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:Hips
+      position: {x: 0, y: .824444115, z: 0}
+      rotation: {x: -.248356134, y: .0500387996, z: .0366037376, w: .966682792}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:LeftUpLeg
+      position: {x: -.119806364, y: 0, z: 0}
+      rotation: {x: .297721237, y: -.142956927, z: -.0746889412, w: .940928757}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:LeftLeg
+      position: {x: -0, y: -.390937567, z: 0}
+      rotation: {x: -.0110079134, y: 0, z: -0, w: .999939442}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:LeftFoot
+      position: {x: -0, y: -.377139211, z: 0}
+      rotation: {x: .0355343558, y: -.0234176666, z: -.0632585064, w: .997089446}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:LeftToeBase
+      position: {x: -0, y: 0, z: .183764011}
+      rotation: {x: -.257846892, y: 0, z: -0, w: .966185808}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:LeftToeEnd
+      position: {x: -0, y: 0, z: .0749999955}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:RightUpLeg
+      position: {x: .119806364, y: 0, z: 0}
+      rotation: {x: .296142638, y: .0665591359, z: .0434728451, w: .951829612}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:RightLeg
+      position: {x: -0, y: -.390937567, z: 0}
+      rotation: {x: .0566311218, y: -0, z: -0, w: .998395205}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:RightFoot
+      position: {x: -0, y: -.377139211, z: 0}
+      rotation: {x: .0309355836, y: -.0220489055, z: -.102079213, w: .994050622}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:RightToeBase
+      position: {x: -0, y: 0, z: .183764011}
+      rotation: {x: -.40374285, y: 0, z: -0, w: .914872527}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:RightToeEnd
+      position: {x: -0, y: 0, z: .0749999955}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:Spine
+      position: {x: -0, y: .117214464, z: 0}
+      rotation: {x: .30207023, y: -.0204154328, z: .000246041571, w: .953067064}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:Head
+      position: {x: -0, y: .466385931, z: 0}
+      rotation: {x: -.00948202331, y: .0984772742, z: .00691200839, w: .9950701}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:Head_End
+      position: {x: -0, y: .114999995, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:LeftShoulder
+      position: {x: -0, y: .321645588, z: 0}
+      rotation: {x: .0416950881, y: -.200120032, z: .615803421, w: .760920346}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:LeftArm
+      position: {x: -0, y: .175323159, z: 0}
+      rotation: {x: .0872432366, y: .386648268, z: .11357528, w: .911039233}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:LeftForeArm
+      position: {x: -0, y: .283601075, z: 0}
+      rotation: {x: .0470082797, y: -.0244954061, z: .0105615575, w: .998538256}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:LeftHand
+      position: {x: -0, y: .231463, z: 0}
+      rotation: {x: -.0735425055, y: -.0115695884, z: .154975802, w: .98510921}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:LeftHandEnd
+      position: {x: -0, y: .099999994, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:LeftHandThumb
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.217672139, y: -.277796268, z: -.0647824705, w: .933408439}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:LeftHandThumbEnd
+      position: {x: -0, y: 0, z: .099999994}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:RightShoulder
+      position: {x: -0, y: .321645588, z: 0}
+      rotation: {x: .117590748, y: .32846874, z: -.597237349, w: .722210765}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:RightArm
+      position: {x: -0, y: .175323159, z: 0}
+      rotation: {x: .0964459479, y: -.583028138, z: -.168659568, w: .788879216}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:RightForeArm
+      position: {x: -0, y: .283601075, z: 0}
+      rotation: {x: .0594578013, y: .075950034, z: .017315641, w: .995186746}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:RightHand
+      position: {x: -0, y: .231463, z: 0}
+      rotation: {x: -.226995736, y: .0122979442, z: -.0526812673, w: .972392082}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:RightHandEnd
+      position: {x: -0, y: .099999994, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:RightHandThumb
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.202096894, y: .276512682, z: .0595997274, w: .937627614}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:Solving:RightHandThumbEnd
+      position: {x: -0, y: 0, z: .099999994}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:STRN
+      position: {x: .145426676, y: 1.11498916, z: -.623923838}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: greg_01:T10
+      position: {x: .107668109, y: 1.12234485, z: -.865415037}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_10179
+      position: {x: 5.17658424, y: 2.56695151, z: 2.35500455}
+      rotation: {x: .956722319, y: .252359658, z: .129715666, w: -.0645821765}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_10183
+      position: {x: -3.64065242, y: 3.10508299, z: -5.03805971}
+      rotation: {x: -.283207685, y: .378118664, z: .722162962, w: .505272508}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_10184
+      position: {x: 1.64247024, y: 3.14330411, z: -5.40355825}
+      rotation: {x: .638750255, y: .610349774, z: -.334977984, w: .327507555}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_10493
+      position: {x: -5.38659239, y: 2.59281373, z: .185800418}
+      rotation: {x: .272532642, y: .962098598, z: .00150631531, w: .00948504359}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_10494
+      position: {x: -6.19573736, y: 2.64079309, z: -4.99834681}
+      rotation: {x: .191044092, y: .908308685, z: .0371545888, w: .370266289}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_10495
+      position: {x: -5.82708549, y: 2.61719966, z: -2.84451246}
+      rotation: {x: .25338912, y: .950950623, z: -.0947032049, w: .15006043}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_10496
+      position: {x: 5.36699533, y: 2.66424322, z: 4.18686676}
+      rotation: {x: .936454833, y: .159237295, z: .304496795, w: .0705514625}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_10497
+      position: {x: 2.5470922, y: 3.07901812, z: 4.97542667}
+      rotation: {x: .645604849, y: .570320666, z: .242992267, w: -.445963502}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_10498
+      position: {x: 4.25341749, y: 2.59436512, z: -.452700973}
+      rotation: {x: .955032647, y: .290711343, z: -.0574395582, w: -.0100135859}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_10499
+      position: {x: -.847268224, y: 3.07423401, z: 5.30923557}
+      rotation: {x: .369681358, y: -.372304201, z: .596717656, w: .607168257}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_10502
+      position: {x: .332612693, y: 3.16512203, z: -5.38717985}
+      rotation: {x: .591145635, y: .626690805, z: -.356078953, w: .36195752}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_10503
+      position: {x: -4.93451452, y: 2.55926943, z: 3.13342714}
+      rotation: {x: .297969729, y: .929000497, z: .0569324605, w: -.211968869}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_12301
+      position: {x: -2.55342174, y: 2.94714069, z: 5.49751711}
+      rotation: {x: .576791465, y: .237439886, z: .773250997, w: .114091322}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:MX_3p_12309
+      position: {x: 3.73430681, y: 2.61173677, z: -3.49174118}
+      rotation: {x: .947617233, y: .236386433, z: -.214598283, w: -.0095232809}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:T20_15966
+      position: {x: 1.14302838, y: 3.08875823, z: 5.15560579}
+      rotation: {x: .386155695, y: -.32216081, z: .576901853, w: .643646181}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: System:T20_15998
+      position: {x: -1.09932899, y: 3.14656711, z: -5.26925325}
+      rotation: {x: -.257939965, y: .42152977, z: .641646564, w: .586574256}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_16
+      position: {x: 1.41378844, y: .0664022714, z: 1.14330614}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_24
+      position: {x: 1.42293513, y: .0291778985, z: 1.08618629}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_41
+      position: {x: 1.47775507, y: .548321903, z: .791440248}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_50
+      position: {x: .819141269, y: .018631395, z: .379062593}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_62
+      position: {x: .895826221, y: .240521863, z: .326698065}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_63
+      position: {x: .950446069, y: .197551221, z: .407753736}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_67
+      position: {x: .815753639, y: .0148195578, z: .375110835}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_69
+      position: {x: 1.27553785, y: .0202954821, z: .460194468}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_70
+      position: {x: 1.49758971, y: .530391634, z: .671722531}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_71
+      position: {x: 1.56607819, y: .44197762, z: .73856473}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_72
+      position: {x: 1.37694168, y: .488423079, z: .748081505}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_73
+      position: {x: 1.53795743, y: .335380018, z: .881013632}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_74
+      position: {x: 1.47441554, y: -.00845897384, z: .438006192}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_75
+      position: {x: 1.32954431, y: -.0199672822, z: .765760839}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_76
+      position: {x: 1.40280056, y: .0966115743, z: 1.16934955}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_77
+      position: {x: 1.41268027, y: .123221956, z: 1.22496414}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_78
+      position: {x: 1.46381462, y: .0947721973, z: 1.22760391}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_79
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_80
+      position: {x: 1.47746515, y: .161294565, z: 1.12345028}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_82
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_84
+      position: {x: 1.68829584, y: -.0122316824, z: .655769885}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_85
+      position: {x: 1.45553493, y: .326258302, z: .996670842}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_89
+      position: {x: 1.75491786, y: -.0150651019, z: .412850499}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_90
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_92
+      position: {x: 1.85814142, y: .342831343, z: .229047522}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_94
+      position: {x: 2.25835657, y: .495860189, z: .388550252}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_97
+      position: {x: 2.23118639, y: .508409083, z: .400159955}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Unlabeled_Markers:_102
+      position: {x: 2.17957067, y: .710509181, z: .683919191}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: c56d3cedbcfdba849a035d3327768539,
+    type: 3}
+  animationType: 3
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
