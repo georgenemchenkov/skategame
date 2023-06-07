@@ -60,6 +60,10 @@ public class LobbyUITournamentPanel : MonoBehaviour
         
         _trainingPanel.SetActive(tournament.training);
 
+        var rt = _tournamentLevelsContainer.GetComponent<RectTransform>();
+        rt.offsetMin = new Vector2(0, rt.offsetMin.y);
+        rt.offsetMax = new Vector2(0, rt.offsetMax.y);
+
     }
 
     void Start()
