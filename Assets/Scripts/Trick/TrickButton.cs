@@ -33,7 +33,7 @@ public class TrickButton : MonoBehaviour
             _improviseButton.SetActive(false);
         }
 
-        if (playerTricks.IsImprovising(trick))
+        if (playerTricks.IsImprovising(trick) && playerTricks.CanPerform(trick))
         {
             _improviseCancelButton.SetActive(true);
         }
